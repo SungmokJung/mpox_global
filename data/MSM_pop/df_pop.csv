@@ -1,0 +1,235 @@
+"","location","pop2022"
+"1","China",1425887.337
+"2","India",1417173.173
+"3","United States",338289.857
+"4","Indonesia",275501.339
+"5","Pakistan",235824.862
+"6","Nigeria",218541.212
+"7","Brazil",215313.498
+"8","Bangladesh",171186.372
+"9","Russia",144713.314
+"10","Mexico",127504.125
+"11","Japan",123951.692
+"12","Ethiopia",123379.924
+"13","Philippines",115559.009
+"14","Egypt",110990.103
+"15","DR Congo",99010.212
+"16","Vietnam",98186.856
+"17","Iran",88550.57
+"18","Turkey",85341.241
+"19","Germany",83369.843
+"20","Thailand",71697.03
+"21","United Kingdom",67508.936
+"22","Tanzania",65497.748
+"23","France",64626.628
+"24","South Africa",59893.885
+"25","Italy",59037.474
+"26","Myanmar",54179.306
+"27","Kenya",54027.487
+"28","Colombia",51874.024
+"29","South Korea",51815.81
+"30","Spain",47558.63
+"31","Uganda",47249.585
+"32","Sudan",46874.204
+"33","Argentina",45510.318
+"34","Algeria",44903.225
+"35","Iraq",44496.122
+"36","Afghanistan",41128.771
+"37","Poland",39857.145
+"38","Ukraine",39701.739
+"39","Canada",38454.327
+"40","Morocco",37457.971
+"41","Saudi Arabia",36408.82
+"42","Angola",35588.987
+"43","Uzbekistan",34627.652
+"44","Peru",34049.588
+"45","Malaysia",33938.221
+"46","Yemen",33696.614
+"47","Ghana",33475.87
+"48","Mozambique",32969.518
+"49","Nepal",30547.58
+"50","Madagascar",29611.714
+"51","Venezuela",28301.696
+"52","Ivory Coast",28160.542
+"53","Cameroon",27914.536
+"54","Niger",26207.977
+"55","Australia",26177.413
+"56","North Korea",26069.416
+"57","Taiwan",23893.394
+"58","Burkina Faso",22673.762
+"59","Mali",22593.59
+"60","Syria",22125.249
+"61","Sri Lanka",21832.143
+"62","Malawi",20405.317
+"63","Zambia",20017.675
+"64","Romania",19659.267
+"65","Chile",19603.733
+"66","Kazakhstan",19397.998
+"67","Ecuador",18001
+"68","Guatemala",17843.908
+"69","Chad",17723.315
+"70","Somalia",17597.511
+"71","Netherlands",17564.014
+"72","Senegal",17316.449
+"73","Cambodia",16767.842
+"74","Zimbabwe",16320.537
+"75","Guinea",13859.341
+"76","Rwanda",13776.698
+"77","Benin",13352.864
+"78","Burundi",12889.576
+"79","Tunisia",12356.117
+"80","Bolivia",12224.11
+"81","Belgium",11655.93
+"82","Haiti",11584.996
+"83","Jordan",11285.869
+"84","Dominican Republic",11228.821
+"85","Cuba",11212.191
+"86","South Sudan",10913.164
+"87","Sweden",10549.347
+"88","Czech Republic",10493.986
+"89","Honduras",10432.86
+"90","Greece",10384.971
+"91","Azerbaijan",10358.074
+"92","Portugal",10270.865
+"93","Papua New Guinea",10142.619
+"94","Hungary",9967.308
+"95","Tajikistan",9952.787
+"96","Belarus",9534.954
+"97","United Arab Emirates",9441.129
+"98","Israel",9038.309
+"99","Austria",8939.617
+"100","Togo",8848.699
+"101","Switzerland",8740.472
+"102","Sierra Leone",8605.718
+"103","Laos",7529.475
+"104","Hong Kong",7488.865
+"105","Serbia",7221.365
+"106","Nicaragua",6948.392
+"107","Libya",6812.341
+"108","Bulgaria",6781.953
+"109","Paraguay",6780.744
+"110","Kyrgyzstan",6630.623
+"111","Turkmenistan",6430.77
+"112","El Salvador",6336.392
+"113","Singapore",5975.689
+"114","Republic of the Congo",5970.424
+"115","Denmark",5882.261
+"116","Slovakia",5643.453
+"117","Central African Republic",5579.144
+"118","Finland",5540.745
+"119","Lebanon",5489.739
+"120","Norway",5434.319
+"121","Liberia",5302.681
+"122","Palestine",5250.072
+"123","New Zealand",5185.288
+"124","Costa Rica",5180.829
+"125","Ireland",5023.109
+"126","Mauritania",4736.139
+"127","Oman",4576.298
+"128","Panama",4408.581
+"129","Kuwait",4268.873
+"130","Croatia",4030.358
+"131","Georgia",3744.385
+"132","Eritrea",3684.032
+"133","Uruguay",3422.794
+"134","Mongolia",3398.366
+"135","Moldova",3272.996
+"136","Puerto Rico",3252.407
+"137","Bosnia and Herzegovina",3233.526
+"138","Albania",2842.321
+"139","Jamaica",2827.377
+"140","Armenia",2780.469
+"141","Lithuania",2750.055
+"142","Gambia",2705.992
+"143","Qatar",2695.122
+"144","Botswana",2630.296
+"145","Namibia",2567.012
+"146","Gabon",2388.992
+"147","Lesotho",2305.825
+"148","Slovenia",2119.844
+"149","Guinea-Bissau",2105.566
+"150","North Macedonia",2093.599
+"151","Latvia",1850.651
+"152","Equatorial Guinea",1674.908
+"153","Trinidad and Tobago",1531.044
+"154","Bahrain",1472.233
+"155","Timor-Leste",1341.296
+"156","Estonia",1326.062
+"157","Mauritius",1299.469
+"158","Cyprus",1251.488
+"159","Eswatini",1201.67
+"160","Djibouti",1120.849
+"161","Reunion",974.052
+"162","Fiji",929.766
+"163","Comoros",836.774
+"164","Guyana",808.726
+"165","Bhutan",782.455
+"166","Solomon Islands",724.273
+"167","Macau",695.168
+"168","Luxembourg",647.599
+"169","Montenegro",627.082
+"170","Suriname",618.04
+"171","Cape Verde",593.149
+"172","Western Sahara",575.986
+"173","Malta",533.286
+"174","Maldives",523.787
+"175","Brunei",449.002
+"176","Bahamas",409.984
+"177","Belize",405.272
+"178","Guadeloupe",395.752
+"179","Iceland",372.899
+"180","Martinique",367.507
+"181","Vanuatu",326.74
+"182","Mayotte",326.101
+"183","French Polynesia",306.279
+"184","French Guiana",304.557
+"185","New Caledonia",289.95
+"186","Barbados",281.635
+"187","Sao Tome and Principe",227.38
+"188","Samoa",222.382
+"189","Curacao",191.163
+"190","Saint Lucia",179.857
+"191","Guam",171.774
+"192","Kiribati",131.232
+"193","Grenada",125.438
+"194","Micronesia",114.164
+"195","Jersey",110.778
+"196","Seychelles",107.118
+"197","Tonga",106.858
+"198","Aruba",106.445
+"199","Saint Vincent and the Grenadines",103.948
+"200","United States Virgin Islands",99.465
+"201","Antigua and Barbuda",93.763
+"202","Isle of Man",84.519
+"203","Andorra",79.824
+"204","Dominica",72.737
+"205","Cayman Islands",68.706
+"206","Bermuda",64.184
+"207","Guernsey",63.301
+"208","Greenland",56.466
+"209","Faroe Islands",53.09
+"210","Northern Mariana Islands",49.551
+"211","Saint Kitts and Nevis",47.657
+"212","Turks and Caicos Islands",45.703
+"213","American Samoa",44.273
+"214","Sint Maarten",44.175
+"215","Marshall Islands",41.569
+"216","Liechtenstein",39.327
+"217","Monaco",36.469
+"218","San Marino",33.66
+"219","Gibraltar",32.649
+"220","Saint Martin",31.791
+"221","British Virgin Islands",31.305
+"222","Palau",18.055
+"223","Cook Islands",17.011
+"224","Anguilla",15.857
+"225","Nauru",12.668
+"226","Wallis and Futuna",11.572
+"227","Tuvalu",11.312
+"228","Saint Barthelemy",10.967
+"229","Saint Pierre and Miquelon",5.862
+"230","Montserrat",4.39
+"231","Falkland Islands",3.78
+"232","Niue",1.934
+"233","Tokelau",1.871
+"234","Vatican City",0.51
