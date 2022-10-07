@@ -1,0 +1,263 @@
+"","location","estimate","MSM_size","region","pop2022","prop"
+"1","Afghanistan",10,670.3989673,"Asia",41128.771,0.0243138799357754
+"2","Albania",7.1,NA,"Europe",2842.321,0.249795853459198
+"3","Algeria",NA,458.012895,"Africa",44903.225,NA
+"4","American Samoa",NA,0.7216499,"Oceania",44.273,NA
+"5","Andorra",NA,NA,"Europe",79.824,NA
+"6","Angola",29.4,516.0403115,"Africa",35588.987,0.0826098253372595
+"7","Anguilla",NA,0.5343809,"Americas",15.857,NA
+"8","Antarctica",NA,NA,NA,NA,NA
+"9","Antigua and Barbuda",NA,3.1598131,"Americas",93.763,NA
+"10","Aremenia",22.7,NA,NA,NA,NA
+"11","Argentina",205.6,1533.6977166,"Americas",45510.318,0.451765685311186
+"12","Armenia",NA,28.3607838,"Asia",2780.469,NA
+"13","Aruba",NA,3.5871965,"Americas",106.445,NA
+"14","Australia",263.5,426.6918319,"Oceania",26177.413,1.00659297387408
+"15","Austria",NA,NA,"Europe",8939.617,NA
+"16","Azerbaijan",23.9,105.6523548,"Asia",10358.074,0.230737876558905
+"17","Bahamas",NA,13.8164608,"Americas",409.984,NA
+"18","Bahrain",NA,15.0167766,"Asia",1472.233,NA
+"19","Bangladesh",101.7,2790.3378636,"Asia",171186.372,0.0594089347252479
+"20","Barbados",2.6,9.4910995,"Americas",281.635,0.923180712624496
+"21","Belarus",32,201.1875294,"Europe",9534.954,0.335607282426323
+"22","Belgium",NA,NA,"Europe",11655.93,NA
+"23","Belize",NA,13.6576664,"Americas",405.272,NA
+"24","Benin",5.8,193.616528,"Africa",13352.864,0.0434363743987807
+"25","Bermuda",NA,NA,"Americas",64.184,NA
+"26","Bhutan",1.7,12.7540165,"Asia",782.455,0.217264890632688
+"27","Bolivia",35.5,NA,NA,NA,NA
+"28","Bolivia (Plurinational State of)",NA,NA,"Americas",NA,NA
+"29","Bonaire, Sint Eustatius and Saba",NA,NA,"Americas",NA,NA
+"30","Bosnia and Herzegovina",6.9,NA,"Europe",3233.526,0.213389346490487
+"31","Botswana",2.6,38.139292,"Africa",2630.296,0.0988481904698179
+"32","Bouvet Island",NA,NA,"Americas",NA,NA
+"33","Brazil",2000,7256.0648826,"Americas",215313.498,0.928878132851662
+"34","British Indian Ocean Territory",NA,NA,"Africa",NA,NA
+"35","Brunei Darussalam",NA,NA,"Asia",NA,NA
+"36","Bulgaria",57.8,143.0992083,"Europe",6781.953,0.852261877957573
+"37","Burkina Faso",3.5,328.769549,"Africa",22673.762,0.0154363444407681
+"38","Burundi",9.3,186.898852,"Africa",12889.576,0.0721513260017242
+"39","Cabo Verde",NA,NA,"Africa",NA,NA
+"40","Cambodia",88,273.3158246,"Asia",16767.842,0.524814105476423
+"41","Cameroon",7,404.760772,"Africa",27914.536,0.0250765407671473
+"42","Canada",349.8,NA,"Americas",38454.327,0.90965055766026
+"43","Cayman Islands",NA,2.3153922,"Americas",68.706,NA
+"44","Central African Republic",3,80.897588,"Africa",5579.144,0.0537716897072382
+"45","Chad",8.2,256.9880675,"Africa",17723.315,0.0462667396026082
+"46","Chile",122.6,660.6458021,"Americas",19603.733,0.625391092604658
+"47","China",NA,23241.9635931,"Asia",1425887.337,NA
+"48","Christmas Island",NA,NA,"Oceania",NA,NA
+"49","Cocos (Keeling) Islands",NA,NA,"Oceania",NA,NA
+"50","Colombia",356.7,1748.1546088,"Americas",51874.024,0.687627395167955
+"51","Comoros",0.6,12.133223,"Africa",836.774,0.0717039487364569
+"52","Congo",1.3,NA,"Africa",NA,NA
+"53","Congo, Democratic Republic of the",NA,NA,"Africa",NA,NA
+"54","Cook Islands",NA,0.2772793,"Oceania",17.011,NA
+"55","Costa Rica",10.1,174.5939373,"Americas",5180.829,0.194949495534402
+"56","Cote Divoire",56,NA,NA,NA,NA
+"57","Croatia",29.5,NA,"Europe",4030.358,0.731944904149954
+"58","Cuba",279.2,377.8508367,"Americas",11212.191,2.49014666268172
+"59","Curaçao",NA,NA,"Americas",NA,NA
+"60","Cyprus",NA,12.7651776,"Asia",1251.488,NA
+"61","Czechia",NA,NA,"Europe",NA,NA
+"62","Côte d'Ivoire",NA,NA,"Africa",NA,NA
+"63","Democratic Republic of the Congo",194.9,NA,NA,NA,NA
+"64","Denmark",50,NA,"Europe",5882.261,0.850013285707656
+"65","Djibouti",0.9,16.2523105,"Africa",1120.849,0.080296275412656
+"66","Dominica",0.5,2.4512369,"Americas",72.737,0.687408059172086
+"67","Dominican Republic",142,378.4112677,"Americas",11228.821,1.26460293560651
+"68","Ecuador",89.4,606.6337,"Americas",18001,0.496639075606911
+"69","Egypt",64.3,1132.0990506,"Africa",110990.103,0.0579330933677933
+"70","El Salvador",54.1,213.5364104,"Americas",6336.392,0.853798186728346
+"71","Equatorial Guinea",NA,24.286166,"Africa",1674.908,NA
+"72","Eritrea",NA,53.418464,"Africa",3684.032,NA
+"73","Estonia",9,NA,"Europe",1326.062,0.678701297526058
+"74","Eswatini",4,17.424215,"Africa",1201.67,0.332870089125966
+"75","Ethiopia",NA,1789.008898,"Africa",123379.924,NA
+"76","Falkland Islands (Malvinas)",NA,NA,"Americas",NA,NA
+"77","Faroe Islands",NA,NA,"Europe",53.09,NA
+"78","Fiji",NA,15.1551858,"Oceania",929.766,NA
+"79","Finland",NA,NA,"Europe",5540.745,NA
+"80","France",330,NA,"Europe",64626.628,0.510625434457141
+"81","French Guiana",NA,10.2635709,"Americas",304.557,NA
+"82","French Polynesia",NA,4.9923477,"Oceania",306.279,NA
+"83","French Southern Territories",NA,NA,"Africa",NA,NA
+"84","Gabon",NA,34.640384,"Africa",2388.992,NA
+"85","Gambia",1.7,39.236884,"Africa",2705.992,0.0628235412373725
+"86","Georgia",18.5,38.192727,"Asia",3744.385,0.494073125493239
+"87","Germany",750,NA,"Europe",83369.843,0.899605868275415
+"88","Ghana",54.8,485.400115,"Africa",33475.87,0.163700002419653
+"89","Gibraltar",NA,NA,"Europe",32.649,NA
+"90","Greece",94,NA,"Europe",10384.971,0.905154188682857
+"91","Greenland",NA,NA,"Americas",56.466,NA
+"92","Grenada",2.4,4.2272606,"Americas",125.438,1.91329581147659
+"93","Guadeloupe",NA,13.3368424,"Americas",395.752,NA
+"94","Guam",NA,2.7999162,"Oceania",171.774,NA
+"95","Guatemala",116.5,601.3396996,"Americas",17843.908,0.652883886198024
+"96","Guernsey",NA,NA,"Europe",63.301,NA
+"97","Guinea",0.8,200.9604445,"Africa",13859.341,0.00577228022602229
+"98","Guinea-Bissau",3.6,30.530707,"Africa",2105.566,0.170975405187964
+"99","Guyana",3.3,27.2540662,"Americas",808.726,0.408049203314843
+"100","Haiti",30.9,390.4143652,"Americas",11584.996,0.266724304436532
+"101","Heard Island and McDonald Islands",NA,NA,"Oceania",NA,NA
+"102","Holy See",NA,NA,"Europe",NA,NA
+"103","Honduras",40.9,351.587382,"Americas",10432.86,0.392030564964928
+"104","Hong Kong",NA,122.0684995,"Asia",7488.865,NA
+"105","Hungary",NA,210.3101988,"Europe",9967.308,NA
+"106","Iceland",NA,NA,"Europe",372.899,NA
+"107","India",238.2,23099.9227199,"Asia",1417173.173,0.0168081081788866
+"108","Indonesia",754.3,4490.6718257,"Asia",275501.339,0.273791772750694
+"109","Iran (Islamic Republic of)",NA,NA,"Asia",NA,NA
+"110","Iraq",NA,453.8604444,"Asia",44496.122,NA
+"111","Ireland",86.5,NA,"Europe",5023.109,1.72204107057999
+"112","Isle of Man",NA,NA,"Europe",84.519,NA
+"113","Israel",NA,92.1907518,"Asia",9038.309,NA
+"114","Italy",NA,NA,"Europe",59037.474,NA
+"115","Jamaica",42.4,95.2826049,"Americas",2827.377,1.49962314894689
+"116","Japan",700,2020.4125796,"Asia",123951.692,0.564736139301753
+"117","Jersey",NA,NA,"Europe",110.778,NA
+"118","Jordan",NA,115.1158638,"Asia",11285.869,NA
+"119","Kazakhstan",62,409.2977578,"Asia",19397.998,0.319620612395155
+"120","Kenya",32.6,783.3985615,"Africa",54027.487,0.0603396563678781
+"121","Kiribati",NA,2.1390816,"Oceania",131.232,NA
+"122","Korea (Democratic People's Republic of)",NA,NA,"Asia",NA,NA
+"123","Korea, Republic of",NA,NA,"Asia",NA,NA
+"124","Kuwait",NA,43.5425046,"Asia",4268.873,NA
+"125","Kyrgyzstan",16.9,139.9061453,"Asia",6630.623,0.254878010708798
+"126","Lao",57.8,NA,NA,NA,NA
+"127","Lao People's Democratic Republic",NA,NA,"Asia",NA,NA
+"128","Latvia",NA,NA,"Europe",1850.651,NA
+"129","Lebanon",16.5,55.9953378,"Asia",5489.739,0.300560737040504
+"130","Lesotho",6.1,33.4344625,"Africa",2305.825,0.264547396268147
+"131","Liberia",74.6,76.8888745,"Africa",5302.681,1.40683552338902
+"132","Libya",NA,69.4858782,"Africa",6812.341,NA
+"133","Liechtenstein",NA,NA,"Europe",39.327,NA
+"134","Lithuania",NA,NA,"Europe",2750.055,NA
+"135","Luxembourg",NA,NA,"Europe",647.599,NA
+"136","Macao",NA,NA,"Asia",NA,NA
+"137","Madagascar",17,429.369853,"Africa",29611.714,0.0574097129264453
+"138","Malawi",42.6,295.8770965,"Africa",20405.317,0.208769116402357
+"139","Malaysia",220,553.1930023,"Asia",33938.221,0.648236688658489
+"140","Maldives",NA,8.5377281,"Asia",523.787,NA
+"141","Mali",4.1,327.607055,"Africa",22593.59,0.0181467398496653
+"142","Malta",NA,NA,"Europe",533.286,NA
+"143","Marshall Islands",NA,0.6775747,"Oceania",41.569,NA
+"144","Martinique",NA,12.3849859,"Americas",367.507,NA
+"145","Mauritania",7.6,68.6740155,"Africa",4736.139,0.160468263283658
+"146","Mauritius",NA,18.8423005,"Africa",1299.469,NA
+"147","Mauritus",5.5,NA,NA,NA,NA
+"148","Mayotte",NA,4.7284645,"Africa",326.101,NA
+"149","Mexico",1200,4296.8890125,"Americas",127504.125,0.941146021746355
+"150","Micronesia (Federated States of)",NA,NA,"Oceania",NA,NA
+"151","Moldova, Republic of",NA,NA,"Europe",NA,NA
+"152","Monaco",NA,NA,"Europe",36.469,NA
+"153","Mongolia",6.5,55.3933658,"Asia",3398.366,0.191268391927179
+"154","Montenegro",NA,NA,"Europe",627.082,NA
+"155","Montserrat",NA,0.147943,"Americas",4.39,NA
+"156","Morocco",42,382.0713042,"Africa",37457.971,0.112125667458069
+"157","Mozambique",15.8,478.058011,"Africa",32969.518,0.0479230542587853
+"158","Myanmar",252,883.1226878,"Asia",54179.306,0.46512223689244
+"159","Namibia",2.2,37.221674,"Africa",2567.012,0.0857027547981856
+"160","Nauru",NA,0.2064884,"Oceania",12.668,NA
+"161","Nepal",60.3,497.925554,"Asia",30547.58,0.197396978745943
+"162","Netherlands",230,NA,"Europe",17564.014,1.30949565401166
+"163","New Caledonia",NA,4.726185,"Oceania",289.95,NA
+"164","New Zealand",37.5,84.5201944,"Oceania",5185.288,0.723199945692505
+"165","Nicaragua",35.5,234.1608104,"Americas",6948.392,0.510909574474209
+"166","Niger",48.9,380.0156665,"Africa",26207.977,0.186584412829727
+"167","Nigeria",240,3168.847574,"Africa",218541.212,0.109819103593147
+"168","Niue",NA,0.0315242,"Oceania",1.934,NA
+"169","Norfolk Island",NA,NA,"Oceania",NA,NA
+"170","North Macedomia",11.1,NA,NA,NA,NA
+"171","North Macedonia",NA,NA,"Europe",2093.599,NA
+"172","Northern Mariana Islands",NA,0.8076813,"Oceania",49.551,NA
+"173","Norway",NA,NA,"Europe",5434.319,NA
+"174","Oman",NA,46.6782396,"Asia",4576.298,NA
+"175","Pakistan",832.2,3843.9452506,"Asia",235824.862,0.352889001160531
+"176","Palau",NA,0.2942965,"Oceania",18.055,NA
+"177","Palestine, State of",NA,NA,"Asia",NA,NA
+"178","Panama",29.6,148.5691797,"Americas",4408.581,0.671417855314442
+"179","Papua New Guinea",37.8,165.3246897,"Oceania",10142.619,0.37268480655736
+"180","Paraguay",27.7,228.5110728,"Americas",6780.744,0.408509744653389
+"181","Peru",260,1147.4711156,"Americas",34049.588,0.763592205579697
+"182","Philippines",678.1,1883.6118467,"Asia",115559.009,0.586799770842618
+"183","Pitcairn",NA,NA,"Oceania",NA,NA
+"184","Poland",NA,840.9857595,"Europe",39857.145,NA
+"185","Portugal",NA,NA,"Europe",10270.865,NA
+"186","Puerto Rico",NA,109.6061159,"Americas",3252.407,NA
+"187","Qatar",NA,27.4902444,"Asia",2695.122,NA
+"188","Republic of Moldova",14.6,NA,NA,NA,NA
+"189","Romania",10.5,414.8105337,"Europe",19659.267,0.0534099262195279
+"190","Russian Federation",NA,NA,"Europe",NA,NA
+"191","Rwanda",5,199.762121,"Africa",13776.698,0.0362931669112584
+"192","Réunion",NA,NA,"Africa",NA,NA
+"193","Saint Barthélemy",NA,NA,"Americas",NA,NA
+"194","Saint Helena, Ascension and Tristan da Cunha",NA,NA,"Africa",NA,NA
+"195","Saint Kitts and Nevis",NA,1.6060409,"Americas",47.657,NA
+"196","Saint Lucia",3,6.0611809,"Americas",179.857,1.66799179348038
+"197","Saint Martin (French part)",NA,NA,"Americas",NA,NA
+"198","Saint Pierre and Miquelon",NA,NA,"Americas",5.862,NA
+"199","Saint Vincent and the Grenadines",0.3,3.5030476,"Americas",103.948,0.28860584138223
+"200","Samoa",25,3.6248266,"Oceania",222.382,11.2419170616327
+"201","San Marino",NA,NA,"Europe",33.66,NA
+"202","Sao Tome and Principe",0.02,3.29701,"Africa",227.38,0.00879584835957428
+"203","Saudi Arabia",NA,371.369964,"Asia",36408.82,NA
+"204","Senegal",52.5,251.0885105,"Africa",17316.449,0.303179941799846
+"205","Serbia",40,NA,"Europe",7221.365,0.553911898927696
+"206","Seychelles",0.2,1.553211,"Africa",107.118,0.186709983382812
+"207","Sierra Leone",3.2,124.782911,"Africa",8605.718,0.0371845789043982
+"208","Singapore",NA,97.4037307,"Asia",5975.689,NA
+"209","Sint Maarten (Dutch part)",NA,NA,"Americas",NA,NA
+"210","Slovakia",NA,119.0768583,"Europe",5643.453,NA
+"211","Slovenia",NA,NA,"Europe",2119.844,NA
+"212","Solomon Island",0.2,NA,NA,NA,NA
+"213","Solomon Islands",NA,11.8056499,"Oceania",724.273,NA
+"214","Somalia",NA,255.1639095,"Africa",17597.511,NA
+"215","South Africa",209.7,868.4613325,"Africa",59893.885,0.350119215008343
+"216","South Georgia and the South Sandwich Islands",NA,NA,"Americas",NA,NA
+"217","South Sudan",NA,158.240878,"Africa",10913.164,NA
+"218","Spain",890.2,NA,"Europe",47558.63,1.87179487718633
+"219","Sri Lanka",73.8,355.8639309,"Asia",21832.143,0.338033696463054
+"220","Sudan",132,478.1168808,"Africa",46874.204,0.281604782024672
+"221","Suriname",1.3,20.827948,"Americas",618.04,0.210342372661964
+"222","Svalbard and Jan Mayen",NA,NA,"Europe",NA,NA
+"223","Sweden",100,NA,"Europe",10549.347,0.947925971152527
+"224","Switzerland",80,NA,"Europe",8740.472,0.915282378342954
+"225","Syrian Arab Republic",10,NA,"Asia",NA,NA
+"226","Taiwan, Province of China",NA,NA,"Asia",NA,NA
+"227","Tajikistan",13.4,210.0038057,"Asia",9952.787,0.13463565531946
+"228","Tanzania, United Republic of",NA,NA,"Africa",NA,NA
+"229","Thailand",527.9,1168.661589,"Asia",71697.03,0.736292702780018
+"230","Timor-Leste",NA,21.8631248,"Asia",1341.296,NA
+"231","Timor-leste",8.7,NA,NA,NA,NA
+"232","Togo",6.1,128.3061355,"Africa",8848.699,0.0689366877548892
+"233","Tokelau",NA,0.0304973,"Oceania",1.871,NA
+"234","Tonga",NA,1.7417854,"Oceania",106.858,NA
+"235","Trinidad and Tobago",NA,51.5961828,"Americas",1531.044,NA
+"236","Tunisia",28,126.0323934,"Africa",12356.117,0.226608407803196
+"237","Turkey",NA,870.4806582,"Asia",85341.241,NA
+"238","Turkmenistan",NA,135.689247,"Asia",6430.77,NA
+"239","Turks and Caicos Islands",NA,1.5401911,"Americas",45.703,NA
+"240","Tuvalu",NA,0.1843856,"Oceania",11.312,NA
+"241","Uganda",24.1,685.1189825,"Africa",47249.585,0.0510057389922049
+"242","Ukraine",179.4,837.7066929,"Europe",39701.739,0.451869375293611
+"243","United Arab Emirates",NA,96.2995158,"Asia",9441.129,NA
+"244","United Kingdom of Great Britain and Northern Ireland",NA,NA,"Europe",NA,NA
+"245","United Republic of Tanzania",49.7,NA,NA,NA,NA
+"246","United States Minor Outlying Islands",NA,NA,"Oceania",NA,NA
+"247","United States of America",4500,NA,"Americas",NA,NA
+"248","Uruguay",28.6,115.3481578,"Americas",3422.794,0.835574679633072
+"249","Uzbekistan",NA,730.6434572,"Asia",34627.652,NA
+"250","Vanuatu",NA,5.325862,"Oceania",326.74,NA
+"251","Venezuela",210.8,NA,NA,NA,NA
+"252","Venezuela (Bolivarian Republic of)",NA,NA,"Americas",NA,NA
+"253","Viet Nam",NA,NA,"Asia",NA,NA
+"254","Vietnam",256,NA,NA,NA,NA
+"255","Virgin Islands (British)",NA,NA,"Americas",NA,NA
+"256","Virgin Islands (U.S.)",NA,NA,"Americas",NA,NA
+"257","Wallis and Futuna",NA,0.1886236,"Oceania",11.572,NA
+"258","Western Sahara",NA,5.8750572,"Africa",575.986,NA
+"259","Yemen",44,343.7054628,"Asia",33696.614,0.130576917906351
+"260","Zambia",6.5,290.2562875,"Africa",20017.675,0.0324713034855447
+"261","Zimbabwe",23,236.6477865,"Africa",16320.537,0.140926735437688
+"262","Åland Islands",NA,NA,"Europe",NA,NA
