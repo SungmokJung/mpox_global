@@ -26,9 +26,9 @@ survival_func <- function(alpha, data, country_i, date_t, date_0){ #date_0 = as.
   int_date <- seq(date_0, date_t, by=1)
   #integration
   tmp_int <- sapply(int_date, FUN = function(x){hazard_func(alpha, data, country_i, date_t=x)})
-  return(sum(tmp_int))
+  return(exp(-sum(tmp_int)))
 }
-#survival_func(alpha=0.1, data=data_global,country_i="Japan",date_t="2022-01-10",date_0="2022-01-10") #0.1161125
+#survival_func(alpha=0.1, data=data_global,country_i="Japan",date_t="2022-01-10",date_0="2022-01-10") #0.9703296
 
 LogL_i <- function(data, country_i, date_t, date_0){
   date_0 <- as.Date(date_0)
