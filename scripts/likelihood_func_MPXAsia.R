@@ -1,47 +1,64 @@
-###Survival analysis
+############################################################
+#Aim: to construct a likelihood function for survival analysis
+#Final edit: 13 October 2022
+#Editor: Fumi Miura
+############################################################
+###Procedure
+#0. Package 
+#1. Test data
+#2. Likelihood
+############################################################
 
-### import data
-alpha_true <- 0.2
-data_global <- data.frame( #read_csv("df_inci_final.csv")
-  date = seq(as.Date("2022-01-05"),as.Date("2022-01-19"),by=1),
-  country = rep("Japan",15),
-  F_i = exp(-alpha_true*(1:15))+rnorm(1,mean=0,sd=0.01)
+###0. Package -----
+library(tidyverse)
+###1. Test data -----
+#hazard is set as constant: alpha_true
+#survival prob: round(sapply(0:19, function(x){exp(-alpha_true*x)}),3)
+alpha_true <- log(2)
+no_of_country <- 20
+no_of_days <- 20
+
+test_data <- data.frame( #read_csv("df_inci_final.csv") #"2022-05-01", "2022-10-03"
+  date = rep(seq(as.Date("2022-05-01"),as.Date("2022-05-01")+no_of_days-1,by=1), no_of_country),
+  country = as.character(sapply(1:no_of_country,function(x){rep(x,no_of_days)})),
+  F_i = rep(rep(alpha_true,no_of_days),no_of_country),
+  date_imp = c(rep(rep(as.Date("2022-05-02"),no_of_days),10),
+               rep(rep(as.Date("2022-05-03"),no_of_days),7),
+               rep(rep(as.Date("2022-05-04"),no_of_days),2),
+               rep(rep(as.Date("2022-05-20"),no_of_days),1)
+  ), #note: I determined the numbers of countries that imported its first case by eye-judging
+  censor = c(rep(rep(0, no_of_days),no_of_country-1), rep(1, no_of_days)) #censored=1, observed=0
 )
 
-### functions
-F_i <- function(data, country_i, date_t){
-  tmp_data <- data %>% filter(country==country_i) %>% filter(date==date_t)
-  return(tmp_data$F_i)
-}
-#F_i(data=data_global,country="Japan",date_t="2022-01-07") #0.5488116
-
-hazard_func <- function(alpha, data, country_i, date_t){
-  return(alpha * F_i(data, country_i, date_t))
-}
-#hazard_func(alpha=0.1, data=data_global,country="Japan",date_t="2022-01-07") #0.05488116
-
-survival_func <- function(alpha, data, country_i, date_t, date_0){ #date_0 = as.Date("2022-05-01")
-  date_0 <- as.Date(date_0)
-  date_t <- as.Date(date_t)
-  int_date <- seq(date_0, date_t, by=1)
-  #integration
-  tmp_int <- sapply(int_date, FUN = function(x){hazard_func(alpha, data, country_i, date_t=x)})
-  return(exp(-sum(tmp_int)))
-}
-#survival_func(alpha=0.1, data=data_global,country_i="Japan",date_t="2022-01-10",date_0="2022-01-10") #0.9703296
-
-LogL_i <- function(data, country_i, date_t, date_0){
-  date_0 <- as.Date(date_0)
-  date_t <- as.Date(date_t)
-  int_date <- seq(date_0, date_t, by=1)
+###2. Likelihood -----
+## likelihood for country i 
+LogL_i <- function(data, country_i){
+  #data[1]=calender date; data[2]=country; data[3]=F_i; data[4]=date of importation; data[5]=dummy variable for censoring (0 observed, 1 censored)
+  data_i <- data %>% filter(country==country_i)
+  date_start_i <- data_i[1,1]
+  date_import_i <- data_i[length(data_i[,1]), 4]
+  surv_days_i <- as.numeric(date_import_i - date_start_i) + 1
+  F_i_vec <- data_i$F_i
+  cens_i <- data_i[1,5] #censored=1, observed=0
+  #log-likelihood for country i 
   function(alpha){
-    tmp_int <- sapply(int_date, FUN = function(x){
-      ###there must be mistake around here###
-      log(hazard_func(alpha, data, country_i, date_t=x)) + log(survival_func(alpha, data, country_i, date_t=x, date_0))
-      })
-   return(sum(tmp_int)) 
+    return(
+      (1-cens_i) * (log(alpha * F_i_vec[surv_days_i]) + log(exp(-sum(alpha * F_i_vec[1:surv_days_i])))) + #if observed, cens_i=0, the contribution to logL is log(h(t) * S(t))
+        cens_i * log(exp(-sum(alpha * F_i_vec[1:surv_days_i]))) #if censored, cens_i=1, the contribution to logL is log(S(t))
+      )
   }
 }
-LogL_i(data=data_global,country_i="Japan",date_t="2022-01-12",date_0="2022-01-10")(alpha=10) #-20.10547
 
-optim(fn= LogL_i(data=data_global,country_i="Japan",date_t="2022-01-15",date_0="2022-01-10"), par=c(0.4), control = list(fnscale = -1), hessian = T)
+## full likelihood
+LogL_full <- function(data, country_list){
+  function(alpha){
+    return(sum(sapply(country_list, FUN = function(x){LogL_i(data=data, country_i = x)(alpha=alpha)})))
+  }
+}
+#check: LogL_full(data=test_data,country_list=(unique(test_data$country)))(alpha=log(1.1)) #-56.18391
+
+## MLE
+optim(fn=LogL_full(data=test_data, country_list=(unique(test_data$country))), 
+      par=c(7), 
+      control = list(fnscale = -1), 
+      hessian = T) #estimated para = 0.397168
