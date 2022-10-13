@@ -11,14 +11,15 @@
 
 ###0. Package -----
 library(tidyverse)
+
 ###1. Test data -----
 #hazard is set as constant: alpha_true
 #survival prob: round(sapply(0:19, function(x){exp(-alpha_true*x)}),3)
 alpha_true <- log(2)
 no_of_country <- 20
 no_of_days <- 20
-
-test_data <- data.frame( #read_csv("df_inci_final.csv") #"2022-05-01", "2022-10-03"
+#construct test data
+test_data <- data.frame( #for the main analysis, we replace here by (1) read_csv("df_inci_final.csv") #"2022-05-01", "2022-10-03" and (2) select variables
   date = rep(seq(as.Date("2022-05-01"),as.Date("2022-05-01")+no_of_days-1,by=1), no_of_country),
   country = as.character(sapply(1:no_of_country,function(x){rep(x,no_of_days)})),
   F_i = rep(rep(alpha_true,no_of_days),no_of_country),
