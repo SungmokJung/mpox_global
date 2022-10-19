@@ -228,7 +228,7 @@
 "227","BGR","Bulgaria","Europe","Eastern Europe",2022-05-03,0,0,0,0,2022-06-23,57800,6781.953,0
 "228","CMR","Cameroon","Africa","Sub-Saharan Africa",2022-05-03,0,0,0,0,2022-06-13,7000,27914.536,0
 "229","CAN","Canada","Americas","Northern America",2022-05-03,0,0,0,0,2022-06-03,349800,38454.327,0
-"230","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-03,0,2,0,0,2022-05-01,3000,5579.144,0
+"230","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-03,0,2,0,0.428571428571429,2022-05-01,3000,5579.144,0.000142857142857143
 "231","CHL","Chile","Americas","Latin America and the Caribbean",2022-05-03,0,0,0,0,2022-06-18,122600,19603.733,0
 "232","CHN","China","Asia","Eastern Asia",2022-05-03,0,0,0,0,2022-06-24,23241963.5931,1425887.337,0
 "233","COL","Colombia","Americas","Latin America and the Caribbean",2022-05-03,0,0,0,0,2022-06-25,356700,51874.024,0
@@ -285,7 +285,7 @@
 "284","NLD","Netherlands","Europe","Western Europe",2022-05-03,0,0,0,0,2022-05-22,230000,17564.014,0
 "285","NCL","New Caledonia","Oceania","Melanesia",2022-05-03,0,0,0,0,2022-07-12,4726.185,289.95,0
 "286","NZL","New Zealand","Oceania","Australia and New Zealand",2022-05-03,0,0,0,0,2022-07-11,37500,5185.288,0
-"287","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-03,0,15,0,0,2022-05-01,240000,218541.212,0
+"287","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-03,0,15,0,3.21428571428571,2022-05-01,240000,218541.212,1.33928571428571e-05
 "288","NOR","Norway","Europe","Northern Europe",2022-05-03,0,0,0,0,2022-05-31,57042.4383237622,5434.319,0
 "289","PAN","Panama","Americas","Latin America and the Caribbean",2022-05-03,0,0,0,0,2022-07-06,29600,4408.581,0
 "290","PRY","Paraguay","Americas","Latin America and the Caribbean",2022-05-03,0,0,0,0,2022-08-26,27700,6780.744,0
@@ -334,7 +334,7 @@
 "333","BGR","Bulgaria","Europe","Eastern Europe",2022-05-04,0,0,0,0,2022-06-23,57800,6781.953,0
 "334","CMR","Cameroon","Africa","Sub-Saharan Africa",2022-05-04,0,0,0,0,2022-06-13,7000,27914.536,0
 "335","CAN","Canada","Americas","Northern America",2022-05-04,0,0,0,0,2022-06-03,349800,38454.327,0
-"336","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-04,0,2,0,0,2022-05-01,3000,5579.144,0
+"336","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-04,0,2,0,0.571428571428571,2022-05-01,3000,5579.144,0.00019047619047619
 "337","CHL","Chile","Americas","Latin America and the Caribbean",2022-05-04,0,0,0,0,2022-06-18,122600,19603.733,0
 "338","CHN","China","Asia","Eastern Asia",2022-05-04,0,0,0,0,2022-06-24,23241963.5931,1425887.337,0
 "339","COL","Colombia","Americas","Latin America and the Caribbean",2022-05-04,0,0,0,0,2022-06-25,356700,51874.024,0
@@ -391,7 +391,7 @@
 "390","NLD","Netherlands","Europe","Western Europe",2022-05-04,0,0,0,0,2022-05-22,230000,17564.014,0
 "391","NCL","New Caledonia","Oceania","Melanesia",2022-05-04,0,0,0,0,2022-07-12,4726.185,289.95,0
 "392","NZL","New Zealand","Oceania","Australia and New Zealand",2022-05-04,0,0,0,0,2022-07-11,37500,5185.288,0
-"393","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-04,0,15,0,0,2022-05-01,240000,218541.212,0
+"393","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-04,0,15,0,4.28571428571429,2022-05-01,240000,218541.212,1.78571428571429e-05
 "394","NOR","Norway","Europe","Northern Europe",2022-05-04,0,0,0,0,2022-05-31,57042.4383237622,5434.319,0
 "395","PAN","Panama","Americas","Latin America and the Caribbean",2022-05-04,0,0,0,0,2022-07-06,29600,4408.581,0
 "396","PRY","Paraguay","Americas","Latin America and the Caribbean",2022-05-04,0,0,0,0,2022-08-26,27700,6780.744,0
@@ -440,7 +440,7 @@
 "439","BGR","Bulgaria","Europe","Eastern Europe",2022-05-05,0,0,0,0,2022-06-23,57800,6781.953,0
 "440","CMR","Cameroon","Africa","Sub-Saharan Africa",2022-05-05,0,0,0,0,2022-06-13,7000,27914.536,0
 "441","CAN","Canada","Americas","Northern America",2022-05-05,0,0,0,0,2022-06-03,349800,38454.327,0
-"442","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-05,0,2,0,0,2022-05-01,3000,5579.144,0
+"442","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-05,0,2,0,0.714285714285714,2022-05-01,3000,5579.144,0.000238095238095238
 "443","CHL","Chile","Americas","Latin America and the Caribbean",2022-05-05,0,0,0,0,2022-06-18,122600,19603.733,0
 "444","CHN","China","Asia","Eastern Asia",2022-05-05,0,0,0,0,2022-06-24,23241963.5931,1425887.337,0
 "445","COL","Colombia","Americas","Latin America and the Caribbean",2022-05-05,0,0,0,0,2022-06-25,356700,51874.024,0
@@ -497,7 +497,7 @@
 "496","NLD","Netherlands","Europe","Western Europe",2022-05-05,0,0,0,0,2022-05-22,230000,17564.014,0
 "497","NCL","New Caledonia","Oceania","Melanesia",2022-05-05,0,0,0,0,2022-07-12,4726.185,289.95,0
 "498","NZL","New Zealand","Oceania","Australia and New Zealand",2022-05-05,0,0,0,0,2022-07-11,37500,5185.288,0
-"499","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-05,0,15,0,0,2022-05-01,240000,218541.212,0
+"499","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-05,0,15,0,5.35714285714286,2022-05-01,240000,218541.212,2.23214285714286e-05
 "500","NOR","Norway","Europe","Northern Europe",2022-05-05,0,0,0,0,2022-05-31,57042.4383237622,5434.319,0
 "501","PAN","Panama","Americas","Latin America and the Caribbean",2022-05-05,0,0,0,0,2022-07-06,29600,4408.581,0
 "502","PRY","Paraguay","Americas","Latin America and the Caribbean",2022-05-05,0,0,0,0,2022-08-26,27700,6780.744,0
@@ -546,7 +546,7 @@
 "545","BGR","Bulgaria","Europe","Eastern Europe",2022-05-06,0,0,0,0,2022-06-23,57800,6781.953,0
 "546","CMR","Cameroon","Africa","Sub-Saharan Africa",2022-05-06,0,0,0,0,2022-06-13,7000,27914.536,0
 "547","CAN","Canada","Americas","Northern America",2022-05-06,0,0,0,0,2022-06-03,349800,38454.327,0
-"548","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-06,0,2,0,0,2022-05-01,3000,5579.144,0
+"548","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-06,0,2,0,0.857142857142857,2022-05-01,3000,5579.144,0.000285714285714286
 "549","CHL","Chile","Americas","Latin America and the Caribbean",2022-05-06,0,0,0,0,2022-06-18,122600,19603.733,0
 "550","CHN","China","Asia","Eastern Asia",2022-05-06,0,0,0,0,2022-06-24,23241963.5931,1425887.337,0
 "551","COL","Colombia","Americas","Latin America and the Caribbean",2022-05-06,0,0,0,0,2022-06-25,356700,51874.024,0
@@ -603,7 +603,7 @@
 "602","NLD","Netherlands","Europe","Western Europe",2022-05-06,0,0,0,0,2022-05-22,230000,17564.014,0
 "603","NCL","New Caledonia","Oceania","Melanesia",2022-05-06,0,0,0,0,2022-07-12,4726.185,289.95,0
 "604","NZL","New Zealand","Oceania","Australia and New Zealand",2022-05-06,0,0,0,0,2022-07-11,37500,5185.288,0
-"605","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-06,0,15,0,0,2022-05-01,240000,218541.212,0
+"605","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-06,0,15,0,6.42857142857143,2022-05-01,240000,218541.212,2.67857142857143e-05
 "606","NOR","Norway","Europe","Northern Europe",2022-05-06,0,0,0,0,2022-05-31,57042.4383237622,5434.319,0
 "607","PAN","Panama","Americas","Latin America and the Caribbean",2022-05-06,0,0,0,0,2022-07-06,29600,4408.581,0
 "608","PRY","Paraguay","Americas","Latin America and the Caribbean",2022-05-06,0,0,0,0,2022-08-26,27700,6780.744,0
@@ -652,7 +652,7 @@
 "651","BGR","Bulgaria","Europe","Eastern Europe",2022-05-07,0,0,0,0,2022-06-23,57800,6781.953,0
 "652","CMR","Cameroon","Africa","Sub-Saharan Africa",2022-05-07,0,0,0,0,2022-06-13,7000,27914.536,0
 "653","CAN","Canada","Americas","Northern America",2022-05-07,0,0,0,0,2022-06-03,349800,38454.327,0
-"654","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-07,0,2,0,0,2022-05-01,3000,5579.144,0
+"654","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-07,0,2,0,1,2022-05-01,3000,5579.144,0.000333333333333333
 "655","CHL","Chile","Americas","Latin America and the Caribbean",2022-05-07,0,0,0,0,2022-06-18,122600,19603.733,0
 "656","CHN","China","Asia","Eastern Asia",2022-05-07,0,0,0,0,2022-06-24,23241963.5931,1425887.337,0
 "657","COL","Colombia","Americas","Latin America and the Caribbean",2022-05-07,0,0,0,0,2022-06-25,356700,51874.024,0
@@ -709,7 +709,7 @@
 "708","NLD","Netherlands","Europe","Western Europe",2022-05-07,0,0,0,0,2022-05-22,230000,17564.014,0
 "709","NCL","New Caledonia","Oceania","Melanesia",2022-05-07,0,0,0,0,2022-07-12,4726.185,289.95,0
 "710","NZL","New Zealand","Oceania","Australia and New Zealand",2022-05-07,0,0,0,0,2022-07-11,37500,5185.288,0
-"711","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-07,0,15,0,0,2022-05-01,240000,218541.212,0
+"711","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-07,0,15,0,7.5,2022-05-01,240000,218541.212,3.125e-05
 "712","NOR","Norway","Europe","Northern Europe",2022-05-07,0,0,0,0,2022-05-31,57042.4383237622,5434.319,0
 "713","PAN","Panama","Americas","Latin America and the Caribbean",2022-05-07,0,0,0,0,2022-07-06,29600,4408.581,0
 "714","PRY","Paraguay","Americas","Latin America and the Caribbean",2022-05-07,0,0,0,0,2022-08-26,27700,6780.744,0
@@ -737,7 +737,7 @@
 "736","TUR","Turkey","Asia","Western Asia",2022-05-07,0,0,0,0,2022-06-30,870480.6582,85341.241,0
 "737","UKR","Ukraine","Europe","Eastern Europe",2022-05-07,0,0,0,0,2022-09-15,179400,39701.739,0
 "738","ARE","United Arab Emirates","Asia","Western Asia",2022-05-07,0,0,0,0,2022-05-24,96299.5158,9441.129,0
-"739","GBR","United Kingdom","Europe","Northern Europe",2022-05-07,1,1,0,0,2022-05-07,708621.322760554,67508.936,0
+"739","GBR","United Kingdom","Europe","Northern Europe",2022-05-07,1,1,0.0714285714285714,0.0714285714285714,2022-05-07,708621.322760554,67508.936,1.00799353807629e-07
 "740","USA","United States","Americas","Northern America",2022-05-07,0,0,0,0,2022-06-03,4500000,338289.857,0
 "741","URY","Uruguay","Americas","Latin America and the Caribbean",2022-05-07,0,0,0,0,2022-07-31,28600,3422.794,0
 "742","VEN","Venezuela","Americas","Latin America and the Caribbean",2022-05-07,0,0,0,0,2022-06-14,210800,28301.696,0
@@ -758,7 +758,7 @@
 "757","BGR","Bulgaria","Europe","Eastern Europe",2022-05-08,0,0,0,0,2022-06-23,57800,6781.953,0
 "758","CMR","Cameroon","Africa","Sub-Saharan Africa",2022-05-08,0,0,0,0,2022-06-13,7000,27914.536,0
 "759","CAN","Canada","Americas","Northern America",2022-05-08,0,0,0,0,2022-06-03,349800,38454.327,0
-"760","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-08,0,2,0,0,2022-05-01,3000,5579.144,0
+"760","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-08,0,2,0,1.14285714285714,2022-05-01,3000,5579.144,0.000380952380952381
 "761","CHL","Chile","Americas","Latin America and the Caribbean",2022-05-08,0,0,0,0,2022-06-18,122600,19603.733,0
 "762","CHN","China","Asia","Eastern Asia",2022-05-08,0,0,0,0,2022-06-24,23241963.5931,1425887.337,0
 "763","COL","Colombia","Americas","Latin America and the Caribbean",2022-05-08,0,0,0,0,2022-06-25,356700,51874.024,0
@@ -815,7 +815,7 @@
 "814","NLD","Netherlands","Europe","Western Europe",2022-05-08,0,0,0,0,2022-05-22,230000,17564.014,0
 "815","NCL","New Caledonia","Oceania","Melanesia",2022-05-08,0,0,0,0,2022-07-12,4726.185,289.95,0
 "816","NZL","New Zealand","Oceania","Australia and New Zealand",2022-05-08,0,0,0,0,2022-07-11,37500,5185.288,0
-"817","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-08,0,15,0,0,2022-05-01,240000,218541.212,0
+"817","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-08,0,15,0,8.57142857142857,2022-05-01,240000,218541.212,3.57142857142857e-05
 "818","NOR","Norway","Europe","Northern Europe",2022-05-08,0,0,0,0,2022-05-31,57042.4383237622,5434.319,0
 "819","PAN","Panama","Americas","Latin America and the Caribbean",2022-05-08,0,0,0,0,2022-07-06,29600,4408.581,0
 "820","PRY","Paraguay","Americas","Latin America and the Caribbean",2022-05-08,0,0,0,0,2022-08-26,27700,6780.744,0
@@ -843,7 +843,7 @@
 "842","TUR","Turkey","Asia","Western Asia",2022-05-08,0,0,0,0,2022-06-30,870480.6582,85341.241,0
 "843","UKR","Ukraine","Europe","Eastern Europe",2022-05-08,0,0,0,0,2022-09-15,179400,39701.739,0
 "844","ARE","United Arab Emirates","Asia","Western Asia",2022-05-08,0,0,0,0,2022-05-24,96299.5158,9441.129,0
-"845","GBR","United Kingdom","Europe","Northern Europe",2022-05-08,0,1,0,0,2022-05-07,708621.322760554,67508.936,0
+"845","GBR","United Kingdom","Europe","Northern Europe",2022-05-08,0,1,0.0714285714285714,0.142857142857143,2022-05-07,708621.322760554,67508.936,2.01598707615259e-07
 "846","USA","United States","Americas","Northern America",2022-05-08,0,0,0,0,2022-06-03,4500000,338289.857,0
 "847","URY","Uruguay","Americas","Latin America and the Caribbean",2022-05-08,0,0,0,0,2022-07-31,28600,3422.794,0
 "848","VEN","Venezuela","Americas","Latin America and the Caribbean",2022-05-08,0,0,0,0,2022-06-14,210800,28301.696,0
@@ -864,7 +864,7 @@
 "863","BGR","Bulgaria","Europe","Eastern Europe",2022-05-09,0,0,0,0,2022-06-23,57800,6781.953,0
 "864","CMR","Cameroon","Africa","Sub-Saharan Africa",2022-05-09,0,0,0,0,2022-06-13,7000,27914.536,0
 "865","CAN","Canada","Americas","Northern America",2022-05-09,0,0,0,0,2022-06-03,349800,38454.327,0
-"866","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-09,0,2,0,0,2022-05-01,3000,5579.144,0
+"866","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-09,0,2,0,1.28571428571429,2022-05-01,3000,5579.144,0.000428571428571429
 "867","CHL","Chile","Americas","Latin America and the Caribbean",2022-05-09,0,0,0,0,2022-06-18,122600,19603.733,0
 "868","CHN","China","Asia","Eastern Asia",2022-05-09,0,0,0,0,2022-06-24,23241963.5931,1425887.337,0
 "869","COL","Colombia","Americas","Latin America and the Caribbean",2022-05-09,0,0,0,0,2022-06-25,356700,51874.024,0
@@ -921,7 +921,7 @@
 "920","NLD","Netherlands","Europe","Western Europe",2022-05-09,0,0,0,0,2022-05-22,230000,17564.014,0
 "921","NCL","New Caledonia","Oceania","Melanesia",2022-05-09,0,0,0,0,2022-07-12,4726.185,289.95,0
 "922","NZL","New Zealand","Oceania","Australia and New Zealand",2022-05-09,0,0,0,0,2022-07-11,37500,5185.288,0
-"923","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-09,0,15,0,0,2022-05-01,240000,218541.212,0
+"923","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-09,0,15,0,9.64285714285714,2022-05-01,240000,218541.212,4.01785714285714e-05
 "924","NOR","Norway","Europe","Northern Europe",2022-05-09,0,0,0,0,2022-05-31,57042.4383237622,5434.319,0
 "925","PAN","Panama","Americas","Latin America and the Caribbean",2022-05-09,0,0,0,0,2022-07-06,29600,4408.581,0
 "926","PRY","Paraguay","Americas","Latin America and the Caribbean",2022-05-09,0,0,0,0,2022-08-26,27700,6780.744,0
@@ -949,7 +949,7 @@
 "948","TUR","Turkey","Asia","Western Asia",2022-05-09,0,0,0,0,2022-06-30,870480.6582,85341.241,0
 "949","UKR","Ukraine","Europe","Eastern Europe",2022-05-09,0,0,0,0,2022-09-15,179400,39701.739,0
 "950","ARE","United Arab Emirates","Asia","Western Asia",2022-05-09,0,0,0,0,2022-05-24,96299.5158,9441.129,0
-"951","GBR","United Kingdom","Europe","Northern Europe",2022-05-09,0,1,0,0,2022-05-07,708621.322760554,67508.936,0
+"951","GBR","United Kingdom","Europe","Northern Europe",2022-05-09,0,1,0.0714285714285714,0.214285714285714,2022-05-07,708621.322760554,67508.936,3.02398061422888e-07
 "952","USA","United States","Americas","Northern America",2022-05-09,0,0,0,0,2022-06-03,4500000,338289.857,0
 "953","URY","Uruguay","Americas","Latin America and the Caribbean",2022-05-09,0,0,0,0,2022-07-31,28600,3422.794,0
 "954","VEN","Venezuela","Americas","Latin America and the Caribbean",2022-05-09,0,0,0,0,2022-06-14,210800,28301.696,0
@@ -970,7 +970,7 @@
 "969","BGR","Bulgaria","Europe","Eastern Europe",2022-05-10,0,0,0,0,2022-06-23,57800,6781.953,0
 "970","CMR","Cameroon","Africa","Sub-Saharan Africa",2022-05-10,0,0,0,0,2022-06-13,7000,27914.536,0
 "971","CAN","Canada","Americas","Northern America",2022-05-10,0,0,0,0,2022-06-03,349800,38454.327,0
-"972","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-10,0,2,0,0,2022-05-01,3000,5579.144,0
+"972","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-10,0,2,0,1.42857142857143,2022-05-01,3000,5579.144,0.000476190476190476
 "973","CHL","Chile","Americas","Latin America and the Caribbean",2022-05-10,0,0,0,0,2022-06-18,122600,19603.733,0
 "974","CHN","China","Asia","Eastern Asia",2022-05-10,0,0,0,0,2022-06-24,23241963.5931,1425887.337,0
 "975","COL","Colombia","Americas","Latin America and the Caribbean",2022-05-10,0,0,0,0,2022-06-25,356700,51874.024,0
@@ -1027,7 +1027,7 @@
 "1026","NLD","Netherlands","Europe","Western Europe",2022-05-10,0,0,0,0,2022-05-22,230000,17564.014,0
 "1027","NCL","New Caledonia","Oceania","Melanesia",2022-05-10,0,0,0,0,2022-07-12,4726.185,289.95,0
 "1028","NZL","New Zealand","Oceania","Australia and New Zealand",2022-05-10,0,0,0,0,2022-07-11,37500,5185.288,0
-"1029","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-10,0,15,0,0,2022-05-01,240000,218541.212,0
+"1029","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-10,0,15,0,10.7142857142857,2022-05-01,240000,218541.212,4.46428571428571e-05
 "1030","NOR","Norway","Europe","Northern Europe",2022-05-10,0,0,0,0,2022-05-31,57042.4383237622,5434.319,0
 "1031","PAN","Panama","Americas","Latin America and the Caribbean",2022-05-10,0,0,0,0,2022-07-06,29600,4408.581,0
 "1032","PRY","Paraguay","Americas","Latin America and the Caribbean",2022-05-10,0,0,0,0,2022-08-26,27700,6780.744,0
@@ -1055,7 +1055,7 @@
 "1054","TUR","Turkey","Asia","Western Asia",2022-05-10,0,0,0,0,2022-06-30,870480.6582,85341.241,0
 "1055","UKR","Ukraine","Europe","Eastern Europe",2022-05-10,0,0,0,0,2022-09-15,179400,39701.739,0
 "1056","ARE","United Arab Emirates","Asia","Western Asia",2022-05-10,0,0,0,0,2022-05-24,96299.5158,9441.129,0
-"1057","GBR","United Kingdom","Europe","Northern Europe",2022-05-10,0,1,0,0,2022-05-07,708621.322760554,67508.936,0
+"1057","GBR","United Kingdom","Europe","Northern Europe",2022-05-10,0,1,0.0714285714285714,0.285714285714286,2022-05-07,708621.322760554,67508.936,4.03197415230518e-07
 "1058","USA","United States","Americas","Northern America",2022-05-10,0,0,0,0,2022-06-03,4500000,338289.857,0
 "1059","URY","Uruguay","Americas","Latin America and the Caribbean",2022-05-10,0,0,0,0,2022-07-31,28600,3422.794,0
 "1060","VEN","Venezuela","Americas","Latin America and the Caribbean",2022-05-10,0,0,0,0,2022-06-14,210800,28301.696,0
@@ -1076,7 +1076,7 @@
 "1075","BGR","Bulgaria","Europe","Eastern Europe",2022-05-11,0,0,0,0,2022-06-23,57800,6781.953,0
 "1076","CMR","Cameroon","Africa","Sub-Saharan Africa",2022-05-11,0,0,0,0,2022-06-13,7000,27914.536,0
 "1077","CAN","Canada","Americas","Northern America",2022-05-11,0,0,0,0,2022-06-03,349800,38454.327,0
-"1078","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-11,0,2,0,0,2022-05-01,3000,5579.144,0
+"1078","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-11,0,2,0,1.57142857142857,2022-05-01,3000,5579.144,0.000523809523809524
 "1079","CHL","Chile","Americas","Latin America and the Caribbean",2022-05-11,0,0,0,0,2022-06-18,122600,19603.733,0
 "1080","CHN","China","Asia","Eastern Asia",2022-05-11,0,0,0,0,2022-06-24,23241963.5931,1425887.337,0
 "1081","COL","Colombia","Americas","Latin America and the Caribbean",2022-05-11,0,0,0,0,2022-06-25,356700,51874.024,0
@@ -1133,7 +1133,7 @@
 "1132","NLD","Netherlands","Europe","Western Europe",2022-05-11,0,0,0,0,2022-05-22,230000,17564.014,0
 "1133","NCL","New Caledonia","Oceania","Melanesia",2022-05-11,0,0,0,0,2022-07-12,4726.185,289.95,0
 "1134","NZL","New Zealand","Oceania","Australia and New Zealand",2022-05-11,0,0,0,0,2022-07-11,37500,5185.288,0
-"1135","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-11,0,15,0,0,2022-05-01,240000,218541.212,0
+"1135","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-11,0,15,0,11.7857142857143,2022-05-01,240000,218541.212,4.91071428571429e-05
 "1136","NOR","Norway","Europe","Northern Europe",2022-05-11,0,0,0,0,2022-05-31,57042.4383237622,5434.319,0
 "1137","PAN","Panama","Americas","Latin America and the Caribbean",2022-05-11,0,0,0,0,2022-07-06,29600,4408.581,0
 "1138","PRY","Paraguay","Americas","Latin America and the Caribbean",2022-05-11,0,0,0,0,2022-08-26,27700,6780.744,0
@@ -1161,7 +1161,7 @@
 "1160","TUR","Turkey","Asia","Western Asia",2022-05-11,0,0,0,0,2022-06-30,870480.6582,85341.241,0
 "1161","UKR","Ukraine","Europe","Eastern Europe",2022-05-11,0,0,0,0,2022-09-15,179400,39701.739,0
 "1162","ARE","United Arab Emirates","Asia","Western Asia",2022-05-11,0,0,0,0,2022-05-24,96299.5158,9441.129,0
-"1163","GBR","United Kingdom","Europe","Northern Europe",2022-05-11,0,1,0,0,2022-05-07,708621.322760554,67508.936,0
+"1163","GBR","United Kingdom","Europe","Northern Europe",2022-05-11,0,1,0.0714285714285714,0.357142857142857,2022-05-07,708621.322760554,67508.936,5.03996769038147e-07
 "1164","USA","United States","Americas","Northern America",2022-05-11,0,0,0,0,2022-06-03,4500000,338289.857,0
 "1165","URY","Uruguay","Americas","Latin America and the Caribbean",2022-05-11,0,0,0,0,2022-07-31,28600,3422.794,0
 "1166","VEN","Venezuela","Americas","Latin America and the Caribbean",2022-05-11,0,0,0,0,2022-06-14,210800,28301.696,0
@@ -1182,7 +1182,7 @@
 "1181","BGR","Bulgaria","Europe","Eastern Europe",2022-05-12,0,0,0,0,2022-06-23,57800,6781.953,0
 "1182","CMR","Cameroon","Africa","Sub-Saharan Africa",2022-05-12,0,0,0,0,2022-06-13,7000,27914.536,0
 "1183","CAN","Canada","Americas","Northern America",2022-05-12,0,0,0,0,2022-06-03,349800,38454.327,0
-"1184","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-12,0,2,0,0,2022-05-01,3000,5579.144,0
+"1184","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-12,0,2,0,1.71428571428571,2022-05-01,3000,5579.144,0.000571428571428571
 "1185","CHL","Chile","Americas","Latin America and the Caribbean",2022-05-12,0,0,0,0,2022-06-18,122600,19603.733,0
 "1186","CHN","China","Asia","Eastern Asia",2022-05-12,0,0,0,0,2022-06-24,23241963.5931,1425887.337,0
 "1187","COL","Colombia","Americas","Latin America and the Caribbean",2022-05-12,0,0,0,0,2022-06-25,356700,51874.024,0
@@ -1239,7 +1239,7 @@
 "1238","NLD","Netherlands","Europe","Western Europe",2022-05-12,0,0,0,0,2022-05-22,230000,17564.014,0
 "1239","NCL","New Caledonia","Oceania","Melanesia",2022-05-12,0,0,0,0,2022-07-12,4726.185,289.95,0
 "1240","NZL","New Zealand","Oceania","Australia and New Zealand",2022-05-12,0,0,0,0,2022-07-11,37500,5185.288,0
-"1241","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-12,0,15,0,0,2022-05-01,240000,218541.212,0
+"1241","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-12,0,15,0,12.8571428571429,2022-05-01,240000,218541.212,5.35714285714286e-05
 "1242","NOR","Norway","Europe","Northern Europe",2022-05-12,0,0,0,0,2022-05-31,57042.4383237622,5434.319,0
 "1243","PAN","Panama","Americas","Latin America and the Caribbean",2022-05-12,0,0,0,0,2022-07-06,29600,4408.581,0
 "1244","PRY","Paraguay","Americas","Latin America and the Caribbean",2022-05-12,0,0,0,0,2022-08-26,27700,6780.744,0
@@ -1267,7 +1267,7 @@
 "1266","TUR","Turkey","Asia","Western Asia",2022-05-12,0,0,0,0,2022-06-30,870480.6582,85341.241,0
 "1267","UKR","Ukraine","Europe","Eastern Europe",2022-05-12,0,0,0,0,2022-09-15,179400,39701.739,0
 "1268","ARE","United Arab Emirates","Asia","Western Asia",2022-05-12,0,0,0,0,2022-05-24,96299.5158,9441.129,0
-"1269","GBR","United Kingdom","Europe","Northern Europe",2022-05-12,0,1,0,0,2022-05-07,708621.322760554,67508.936,0
+"1269","GBR","United Kingdom","Europe","Northern Europe",2022-05-12,0,1,0.0714285714285714,0.428571428571429,2022-05-07,708621.322760554,67508.936,6.04796122845777e-07
 "1270","USA","United States","Americas","Northern America",2022-05-12,0,0,0,0,2022-06-03,4500000,338289.857,0
 "1271","URY","Uruguay","Americas","Latin America and the Caribbean",2022-05-12,0,0,0,0,2022-07-31,28600,3422.794,0
 "1272","VEN","Venezuela","Americas","Latin America and the Caribbean",2022-05-12,0,0,0,0,2022-06-14,210800,28301.696,0
@@ -1288,7 +1288,7 @@
 "1287","BGR","Bulgaria","Europe","Eastern Europe",2022-05-13,0,0,0,0,2022-06-23,57800,6781.953,0
 "1288","CMR","Cameroon","Africa","Sub-Saharan Africa",2022-05-13,0,0,0,0,2022-06-13,7000,27914.536,0
 "1289","CAN","Canada","Americas","Northern America",2022-05-13,0,0,0,0,2022-06-03,349800,38454.327,0
-"1290","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-13,0,2,0,0,2022-05-01,3000,5579.144,0
+"1290","CAF","Central African Republic","Africa","Sub-Saharan Africa",2022-05-13,0,2,0,1.85714285714286,2022-05-01,3000,5579.144,0.000619047619047619
 "1291","CHL","Chile","Americas","Latin America and the Caribbean",2022-05-13,0,0,0,0,2022-06-18,122600,19603.733,0
 "1292","CHN","China","Asia","Eastern Asia",2022-05-13,0,0,0,0,2022-06-24,23241963.5931,1425887.337,0
 "1293","COL","Colombia","Americas","Latin America and the Caribbean",2022-05-13,0,0,0,0,2022-06-25,356700,51874.024,0
@@ -1345,7 +1345,7 @@
 "1344","NLD","Netherlands","Europe","Western Europe",2022-05-13,0,0,0,0,2022-05-22,230000,17564.014,0
 "1345","NCL","New Caledonia","Oceania","Melanesia",2022-05-13,0,0,0,0,2022-07-12,4726.185,289.95,0
 "1346","NZL","New Zealand","Oceania","Australia and New Zealand",2022-05-13,0,0,0,0,2022-07-11,37500,5185.288,0
-"1347","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-13,0,15,0,0,2022-05-01,240000,218541.212,0
+"1347","NGA","Nigeria","Africa","Sub-Saharan Africa",2022-05-13,0,15,0,13.9285714285714,2022-05-01,240000,218541.212,5.80357142857143e-05
 "1348","NOR","Norway","Europe","Northern Europe",2022-05-13,0,0,0,0,2022-05-31,57042.4383237622,5434.319,0
 "1349","PAN","Panama","Americas","Latin America and the Caribbean",2022-05-13,0,0,0,0,2022-07-06,29600,4408.581,0
 "1350","PRY","Paraguay","Americas","Latin America and the Caribbean",2022-05-13,0,0,0,0,2022-08-26,27700,6780.744,0
@@ -1373,7 +1373,7 @@
 "1372","TUR","Turkey","Asia","Western Asia",2022-05-13,0,0,0,0,2022-06-30,870480.6582,85341.241,0
 "1373","UKR","Ukraine","Europe","Eastern Europe",2022-05-13,0,0,0,0,2022-09-15,179400,39701.739,0
 "1374","ARE","United Arab Emirates","Asia","Western Asia",2022-05-13,0,0,0,0,2022-05-24,96299.5158,9441.129,0
-"1375","GBR","United Kingdom","Europe","Northern Europe",2022-05-13,0,1,0,0,2022-05-07,708621.322760554,67508.936,0
+"1375","GBR","United Kingdom","Europe","Northern Europe",2022-05-13,0,1,0.0714285714285714,0.5,2022-05-07,708621.322760554,67508.936,7.05595476653406e-07
 "1376","USA","United States","Americas","Northern America",2022-05-13,0,0,0,0,2022-06-03,4500000,338289.857,0
 "1377","URY","Uruguay","Americas","Latin America and the Caribbean",2022-05-13,0,0,0,0,2022-07-31,28600,3422.794,0
 "1378","VEN","Venezuela","Americas","Latin America and the Caribbean",2022-05-13,0,0,0,0,2022-06-14,210800,28301.696,0
