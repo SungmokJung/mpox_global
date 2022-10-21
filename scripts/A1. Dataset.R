@@ -105,6 +105,8 @@ filter(date >= day_0_real) -> df_inci_MA
 write.csv(df_inci_MA, "../data/df_inci_final.csv")
 df_inci_MA %>% head()
 
+unique(df_inci_MA$location)
+
 ## checking the smoothened incidence with the 14-day moving average
 options(repr.plot.width=7,repr.plot.height=5)
 df_inci_MA %>% filter(location==c("United States")) %>%
