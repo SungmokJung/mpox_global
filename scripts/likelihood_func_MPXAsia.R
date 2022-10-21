@@ -44,8 +44,8 @@ LogL_i <- function(data, country_i){
   #log-likelihood for country i 
   function(alpha){
     return(
-      (1-cens_i) * (log(alpha * F_i_vec[surv_days_i]) + log(exp(-sum(alpha * F_i_vec[1:surv_days_i])))) + #if observed, cens_i=0, the contribution to logL is log(h(t) * S(t))
-        cens_i * log(exp(-sum(alpha * F_i_vec[1:surv_days_i]))) #if censored, cens_i=1, the contribution to logL is log(S(t))
+      (1-cens_i) * (log(alpha * F_i_vec[surv_days_i]) + (-sum(alpha * F_i_vec[1:surv_days_i]))) + #if observed, cens_i=0, the contribution to logL is log(h(t) * S(t))
+        cens_i * (-sum(alpha * F_i_vec[1:surv_days_i])) #if censored, cens_i=1, the contribution to logL is log(S(t))
       )
   }
 }
