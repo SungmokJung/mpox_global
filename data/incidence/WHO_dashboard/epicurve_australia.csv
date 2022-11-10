@@ -1,0 +1,19 @@
+country,iso3,who_region,who_region_long,reference_date,date_type,cases
+Australia,AUS,WPRO,Western Pacific Region,2022-05-08,Onset,2
+Australia,AUS,WPRO,Western Pacific Region,2022-05-18,Onset,1
+Australia,AUS,WPRO,Western Pacific Region,2022-05-24,Onset,2
+Australia,AUS,WPRO,Western Pacific Region,2022-05-30,Onset,1
+Australia,AUS,WPRO,Western Pacific Region,2022-06-02,Reported,1
+Australia,AUS,WPRO,Western Pacific Region,2022-06-04,Reported,2
+Australia,AUS,WPRO,Western Pacific Region,2022-06-08,Onset,2
+Australia,AUS,WPRO,Western Pacific Region,2022-06-23,Reported,1
+Australia,AUS,WPRO,Western Pacific Region,2022-06-27,Reported,1
+Australia,AUS,WPRO,Western Pacific Region,2022-06-28,Reported,1
+Australia,AUS,WPRO,Western Pacific Region,2022-06-30,Reported,1
+Australia,AUS,WPRO,Western Pacific Region,2022-07-01,Reported,2
+Australia,AUS,WPRO,Western Pacific Region,2022-07-11,Reported,1
+Australia,AUS,WPRO,Western Pacific Region,2022-07-13,Reported,2
+Australia,AUS,WPRO,Western Pacific Region,2022-07-14,Reported,5
+Australia,AUS,WPRO,Western Pacific Region,2022-07-19,Reported,8
+Australia,AUS,WPRO,Western Pacific Region,2022-09-06,Reported,1
+Australia,AUS,WPRO,Western Pacific Region,2022-10-13,Reported,2

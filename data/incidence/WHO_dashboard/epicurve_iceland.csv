@@ -1,0 +1,14 @@
+country,iso3,who_region,who_region_long,reference_date,date_type,cases
+Iceland,ISL,EURO,European Region,2022-06-13,Diagnosis,2
+Iceland,ISL,EURO,European Region,2022-06-15,Diagnosis,1
+Iceland,ISL,EURO,European Region,2022-06-28,Diagnosis,1
+Iceland,ISL,EURO,European Region,2022-07-01,Diagnosis,1
+Iceland,ISL,EURO,European Region,2022-07-05,Diagnosis,1
+Iceland,ISL,EURO,European Region,2022-07-08,Diagnosis,1
+Iceland,ISL,EURO,European Region,2022-07-16,Diagnosis,2
+Iceland,ISL,EURO,European Region,2022-07-27,Diagnosis,1
+Iceland,ISL,EURO,European Region,2022-07-30,Diagnosis,1
+Iceland,ISL,EURO,European Region,2022-08-11,Diagnosis,1
+Iceland,ISL,EURO,European Region,2022-09-16,Diagnosis,2
+Iceland,ISL,EURO,European Region,2022-09-28,Diagnosis,1
+Iceland,ISL,EURO,European Region,2022-10-03,Onset,1
