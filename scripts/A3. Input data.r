@@ -3,32 +3,32 @@ for(x in libraries) {library(x,character.only=TRUE,warn.conflicts=FALSE,quietly=
 
 theme_set(theme_bw())
 
-read.csv("../data/df_inci_final.csv") -> df_inci
+read.csv("../data/df_inci_final_WHO_backproj.csv") -> df_inci
 read.csv("../data/SAR_cip_Reff_excess.csv") -> df_Reff
 read.csv("../data/flight/flight_matrix.csv") -> flight_matrix
 
 ## fixed parameters
 w <- 14
 SAR <- 0.1
-time_0 <- as.Date("2022-04-30")
+time_0 <- as.Date("2022-04-17")
+time_end <- as.Date("2022-10-01")
 
-## extrapolating Reff_i
+## extrapolating Reff_i (i.e., linear extrapolation with the cumulative incidence among MSM population)
 merge(df_inci %>% dplyr::select(cum_icni_prop) %>% rename(Infections=cum_icni_prop), 
       df_Reff %>% dplyr::select(Infections, Excess), by=c("Infections"), all.x=TRUE) %>% 
 arrange(Infections) %>% distinct() -> temp_df_Reff
 temp_df_Reff[rowSums(is.na(temp_df_Reff))>0,] -> temp_df_Reff_NA
 
 for(i in 1:nrow(temp_df_Reff_NA)){
-# df_Reff$Infections[match(sort(abs(df_Reff$Infections-as.numeric(temp_df_Reff_NA$Infections[i])), partial=1:2)[1:2], 
-#                          abs(df_Reff$Infections-as.numeric(temp_df_Reff_NA$Infections[i])))] -> two_val
     c(min(df_Reff$Infections[which(df_Reff$Infections>temp_df_Reff_NA$Infections[i])]),
       min(df_Reff$Infections[which(df_Reff$Infections<temp_df_Reff_NA$Infections[i])])) -> two_val
+    sort(two_val) -> two_val
     
-sort(two_val) -> two_val
+    df_Reff %>% filter(Infections >= two_val[1] & Infections <= two_val[2]) %>% 
+    dplyr::select(Infections, Excess) -> temp
     
-df_Reff %>% filter(Infections >= two_val[1] & Infections <= two_val[2]) %>% dplyr::select(Infections, Excess) -> temp
-approx(temp$Infections, temp$Excess, 
-       xout = temp_df_Reff_NA$Infections[i], method="linear")$y -> temp_df_Reff_NA[i,2]
+    approx(temp$Infections, temp$Excess, 
+           xout = temp_df_Reff_NA$Infections[i], method="linear")$y -> temp_df_Reff_NA[i,2]
 }
 
 temp_df_Reff_NA %<>% mutate(X=NA, SAR=NA, Reff_1=NA, Reff_2=NA, n=NA) %>% 
@@ -36,31 +36,33 @@ dplyr::select(X, SAR, Infections, Reff_1, Reff_2, Excess, n)
 
 rbind(df_Reff, temp_df_Reff_NA) %>% arrange(Infections) -> df_Reff_extra
 
-## Reff_i & G_i
+## Reff_i & G_i (fixing the country name issue)
 merge(df_inci, df_Reff_extra %>% dplyr::select(Infections, Excess) %>% rename(cum_icni_prop=Infections),
       by=c("cum_icni_prop"), all.x=TRUE) %>% 
 mutate(Reff_i=Excess*SAR, G_i=Reff_i*MA_new_cases) %>% dplyr::select(-c("Excess")) %>%
-mutate(location=case_when(location==c("Democratic Republic of Congo")~c("Congo, Democratic Republic of the"),
+mutate(location=case_when(location==c("Democratic Republic of the Congo")~c("Congo, Democratic Republic of the"),
                           location==c("Curaçao")~c("Curacao"),
                           location==c("Czechia")~c("Czech Republic"),
-                          location==c("Türkiye")~c("Turkey")
+                          location==c("Türkiye")~c("Turkey"),
                           location==c("Iran")~c("Iran, Islamic Republic of"),
-                          location==c("South Korea")~c("Korea, Republic of"),
+                          location==c("Republic of Korea")~c("Korea, Republic of"),
                           location==c("United States")~c("United States of America"),
-                          location==c("Venezuela")~c("Venezuela, Bolivarian Republic of"),
-                          location==c("Moldova")~c("Moldova, Republic of"),
+                          location==c("Venezuela (Bolivarian Republic of)")~c("Venezuela, Bolivarian Republic of"),
+                          location==c("Republic of Moldova")~c("Moldova, Republic of"),
                           location==c("Russia")~c("Russian Federation"),
                           location==c("Bolivia")~c("Bolivia, Plurinational State of"),
+                          location==c("Hong Kong")~c("Hong Kong, China"),
+                          location==c("Republic of Congo") ~ c("Congo"),
+                          location==c("Bosnia And Herzegovina") ~ c("Bosnia and Herzegovina"),
+                          location==c("The United Kingdom") ~ c("United Kingdom"),
+                          location==c("Russia") ~ c("Russian Federation"),
                           TRUE~location)) %>%
-filter(!(location %in% c("Gibraltar", "Guadeloupe", "Greenland", "Saint Martin (French part)"))) -> input
+filter(!(location %in% c("Gibraltar", "Guadeloupe", "Greenland", "Saint Martin"))) -> input
 
 as.Date(input$date) -> input$date
-input %>% mutate(time=as.numeric(date-time_0), censoring=0) %>% dplyr::select(-X) -> input
+input %>% mutate(time=as.numeric(date-time_0+1), censoring=0) %>% arrange(date) %>% dplyr::select(-X) -> input
 
-## coverting NAs to zero in the flight data
-flight_matrix[is.na(flight_matrix)] <- 0
-
-## calculating Reff_i & G_i in countries without any imported case
+## calculating Reff_i & G_i in countries without MPX importation
 path <- "../data/flight/all_region/"; list.files(path = path, pattern = "*xlsx") -> file_list
 substr(file_list,1,nchar(file_list)-5) -> flight_list
 unique(input$location) -> country_list
@@ -73,7 +75,6 @@ as.data.frame(country_no_list_sort) %>% rename(location=country_no_list_sort) ->
 
 read.csv("../data/MSM_pop/df_MSM_imputed.csv") %>%
 mutate(location=case_when(location==c("Côte d\'Ivoire")~c("Cote d'Ivoire"),
-                          location==c("Hong Kong")~c("Hong Kong, China"),
                           location==c("Macao")~c("Macao, China"),
                           location==c("Micronesia (Federated States of)")~c("Micronesia, Federated States of"),
                           location==c("Saint Vincent and the Grenadines")~c("Saint Vincent and The Grenadines"),
@@ -119,19 +120,24 @@ for(i in 1:length(no_list)){
 }
 
 do.call("rbind", df_inci_no_list) %>% as.data.frame() %>% arrange(location, date) %>%
-mutate(time=as.numeric(date-time_0), censoring=1) -> input_no
+mutate(time=as.numeric(date-time_0+1), censoring=1) -> input_no
 
 rbind(input, input_no) -> input_all
+input_all %>% filter(date <= time_end) -> input_all
 input_all %>% filter(is.na(pop2022)) %>% dplyr::select(location) %>% unique()
 
-## calculating F_i
+## countries without travel volume data
 path <- "../data/flight/all_region/"; list.files(path = path, pattern = "*xlsx") -> file_list
 substr(file_list,1,nchar(file_list)-5) -> flight_list
 unique(input_all$location) -> country_list
-country_list <- country_list[!country_list %in% c("Sudan", "Ghana", "Liberia")]
+country_list <- country_list[!country_list %in% c("Sudan", "Ghana", "Liberia", "Congo", "Nigeria" ,
+                                                  "Congo, Democratic Republic of the",
+                                                  "Venezuela, Bolivarian Republic of", "South Sudan", 
+                                                  "Taiwan")] ## Taiwan can be added later
 sort(flight_list) -> flight_list_sort; sort(country_list) -> country_list_sort
 setdiff(country_list_sort, flight_matrix$destination)
 
+## calculating F_i
 F_i_country <- list(); F_i_time_list <- list()
 
 for(i in 1:length(country_list_sort)){
@@ -163,9 +169,11 @@ merge(input_all, F_i_country_all, by=c("location", "time"), all.x=TRUE) -> input
 
 input_final_all$date_import <- as.Date(input_final_all$date_import)
 
+## removing countires without travel volume data
 input_final <- input_final_all[!is.na(input_final_all$F_i),]
+write.csv(input_final, "../data/input_WHO_backproj.csv")
 
-input_final %>% head()
-write.csv(input_final, "../data/input.csv")
+input_final %>% group_by(location) %>% summarise(F_i_all=sum(F_i)) %>% ungroup() -> temp
+temp%>% filter(F_i_all==0)
 
 
