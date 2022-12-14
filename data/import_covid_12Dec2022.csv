@@ -1,0 +1,140 @@
+﻿Date_reported,Country_code,Country,WHO_region,New_cases,Cumulative_cases,New_deaths,Cumulative_deaths
+2020/01/04,CN,China,WPRO,1,1,0,0
+2020/01/04,FI,Finland,EURO,1,1,0,0
+2020/01/04,DE,Germany,EURO,1,1,0,0
+2020/01/11,ES,Spain,EURO,1,1,0,0
+2020/01/13,TH,Thailand,SEARO,1,1,0,0
+2020/01/14,JP,Japan,WPRO,1,1,0,0
+2020/01/19,KR,Republic of Korea,WPRO,1,1,0,0
+2020/01/20,US,United States of America,AMRO,1,1,0,0
+2020/01/23,NP,Nepal,SEARO,1,1,0,0
+2020/01/24,SG,Singapore,WPRO,1,1,0,0
+2020/01/25,AU,Australia,WPRO,1,1,0,0
+2020/01/26,CA,Canada,AMRO,1,1,0,0
+2020/01/28,KH,Cambodia,WPRO,1,1,0,0
+2020/01/30,IN,India,SEARO,1,1,0,0
+2020/01/31,PH,Philippines,WPRO,1,1,0,0
+2020/01/31,SE,Sweden,EURO,1,1,0,0
+2020/02/01,GB,The United Kingdom,EURO,1,1,0,0
+2020/02/04,BE,Belgium,EURO,1,1,0,0
+2020/02/20,NO,Norway,EURO,1,1,0,0
+2020/02/21,MX,Mexico,AMRO,1,1,0,0
+2020/02/24,CH,Switzerland,EURO,1,1,0,0
+2020/02/25,HR,Croatia,EURO,1,1,0,0
+2020/02/26,DZ,Algeria,AFRO,1,1,0,0
+2020/02/26,AT,Austria,EURO,1,1,0,0
+2020/02/26,GE,Georgia,EURO,1,1,0,0
+2020/02/26,MK,North Macedonia,EURO,1,1,0,0
+2020/02/26,RO,Romania,EURO,1,1,0,0
+2020/02/27,BR,Brazil,AMRO,1,1,0,0
+2020/02/27,DK,Denmark,EURO,1,1,0,0
+2020/02/27,EE,Estonia,EURO,1,1,0,0
+2020/02/27,GR,Greece,EURO,1,1,0,0
+2020/02/28,LT,Lithuania,EURO,1,1,0,0
+2020/02/28,NL,Netherlands,EURO,1,1,0,0
+2020/02/28,NZ,New Zealand,WPRO,1,1,0,0
+2020/02/28,SM,San Marino,EURO,1,1,0,0
+2020/02/29,AZ,Azerbaijan,EURO,1,1,0,0
+2020/02/29,BY,Belarus,EURO,1,1,0,0
+2020/02/29,CL,Chile,AMRO,1,1,0,0
+2020/02/29,IS,Iceland,EURO,1,1,0,0
+2020/02/29,MC,Monaco,EURO,1,1,0,0
+2020/02/29,NG,Nigeria,AFRO,1,1,0,0
+2020/03/01,IE,Ireland,EURO,1,1,0,0
+2020/03/02,AM,Armenia,EURO,1,1,0,0
+2020/03/02,EC,Ecuador,AMRO,1,1,0,0
+2020/03/02,LV,Latvia,EURO,1,1,0,0
+2020/03/02,LU,Luxembourg,EURO,1,1,0,0
+2020/03/02,BL,Saint Barthélemy,AMRO,1,1,0,0
+2020/03/02,SN,Senegal,AFRO,1,1,0,0
+2020/03/03,AD,Andorra,EURO,1,1,0,0
+2020/03/03,DO,Dominican Republic,AMRO,1,1,0,0
+2020/03/03,FO,Faroe Islands,EURO,1,1,0,0
+2020/03/03,GI,Gibraltar,EURO,1,1,0,0
+2020/03/03,UA,Ukraine,EURO,1,1,0,0
+2020/03/04,LI,Liechtenstein,EURO,1,1,0,0
+2020/03/04,PL,Poland,EURO,1,1,0,0
+2020/03/04,SI,Slovenia,EURO,1,1,0,0
+2020/03/06,BT,Bhutan,SEARO,1,1,0,0
+2020/03/06,MT,Malta,EURO,1,1,0,0
+2020/03/06,RS,Serbia,EURO,1,1,0,0
+2020/03/06,SK,Slovakia,EURO,1,1,0,0
+2020/03/06,ZA,South Africa,AFRO,1,1,0,0
+2020/03/06,TG,Togo,AFRO,1,1,0,0
+2020/03/07,VA,Holy See,EURO,1,1,0,0
+2020/03/07,MD,Republic of Moldova,EURO,1,1,0,0
+2020/03/08,CO,Colombia,AMRO,1,1,0,0
+2020/03/08,GG,Guernsey,EURO,1,1,0,0
+2020/03/09,PY,Paraguay,AMRO,1,1,0,0
+2020/03/10,BN,Brunei Darussalam,WPRO,1,1,0,0
+2020/03/10,CF,Central African Republic,AFRO,1,1,0,0
+2020/03/10,CI,Côte d’Ivoire,AFRO,1,1,0,0
+2020/03/10,PF,French Polynesia,WPRO,1,1,0,0
+2020/03/10,MN,Mongolia,WPRO,1,1,0,0
+2020/03/11,CD,Democratic Republic of the Congo,AFRO,1,1,0,0
+2020/03/11,PA,Panama,AMRO,1,1,0,0
+2020/03/11,TR,Türkiye,EURO,1,1,0,0
+2020/03/12,GH,Ghana,AFRO,1,1,0,0
+2020/03/12,JM,Jamaica,AMRO,1,1,0,0
+2020/03/13,GA,Gabon,AFRO,1,1,0,0
+2020/03/13,GY,Guyana,AMRO,1,1,1,1
+2020/03/13,VC,Saint Vincent and the Grenadines,AMRO,1,1,0,0
+2020/03/14,GQ,Equatorial Guinea,AFRO,1,1,0,0
+2020/03/14,SZ,Eswatini,AFRO,1,1,0,0
+2020/03/14,ET,Ethiopia,AFRO,1,1,0,0
+2020/03/14,GN,Guinea,AFRO,1,1,0,0
+2020/03/14,KE,Kenya,AFRO,1,1,0,0
+2020/03/14,MR,Mauritania,AFRO,1,1,0,0
+2020/03/14,SD,Sudan,EMRO,1,1,0,0
+2020/03/15,AG,Antigua and Barbuda,AMRO,1,1,0,0
+2020/03/15,CG,Congo,AFRO,1,1,0,0
+2020/03/15,GT,Guatemala,AMRO,1,1,0,0
+2020/03/15,RW,Rwanda,AFRO,1,1,0,0
+2020/03/15,LC,Saint Lucia,AMRO,1,1,0,0
+2020/03/15,SR,Suriname,AMRO,1,1,0,0
+2020/03/17,BS,Bahamas,AMRO,1,1,0,0
+2020/03/17,BJ,Benin,AFRO,1,1,0,0
+2020/03/17,LR,Liberia,AFRO,1,1,0,0
+2020/03/17,TZ,United Republic of Tanzania,AFRO,1,1,0,0
+2020/03/19,SV,El Salvador,AMRO,1,1,0,0
+2020/03/19,FJ,Fiji,WPRO,1,1,0,0
+2020/03/19,GM,Gambia,AFRO,1,1,0,0
+2020/03/19,NI,Nicaragua,AMRO,1,1,0,0
+2020/03/19,NE,Niger,AFRO,1,1,0,0
+2020/03/20,CV,Cabo Verde,AFRO,1,1,0,0
+2020/03/20,TD,Chad,AFRO,1,1,0,0
+2020/03/20,IM,Isle of Man,EURO,1,1,0,0
+2020/03/20,TL,Timor-Leste,SEARO,1,1,0,0
+2020/03/21,PG,Papua New Guinea,WPRO,1,1,0,0
+2020/03/21,ZW,Zimbabwe,AFRO,1,1,0,5
+2020/03/22,ER,Eritrea,AFRO,1,1,0,0
+2020/03/22,MG,Madagascar,AFRO,1,1,0,0
+2020/03/22,UG,Uganda,AFRO,1,1,0,0
+2020/03/23,GD,Grenada,AMRO,1,1,0,0
+2020/03/23,MZ,Mozambique,AFRO,1,1,0,0
+2020/03/23,SY,Syrian Arab Republic,EMRO,1,1,0,0
+2020/03/24,DM,Dominica,AMRO,1,1,0,0
+2020/03/24,TC,Turks and Caicos Islands,AMRO,1,1,0,0
+2020/03/25,BZ,Belize,AMRO,1,1,0,0
+2020/03/25,LY,Libya,EMRO,1,1,0,0
+2020/03/26,ML,Mali,AFRO,1,1,0,0
+2020/03/30,AO,Angola,AFRO,1,1,0,0
+2020/04/01,SL,Sierra Leone,AFRO,1,1,0,0
+2020/04/05,FK,Falkland Islands (Malvinas),AMRO,1,1,0,0
+2020/04/06,SS,South Sudan,AFRO,1,1,0,0
+2020/04/08,PM,Saint Pierre and Miquelon,AMRO,1,1,0,0
+2020/04/10,YE,Yemen,EMRO,1,1,0,0
+2020/04/11,XC,Saba,AMRO,1,1,0,0
+2020/04/16,XA,Bonaire,AMRO,1,1,0,0
+2020/05/01,KM,Comoros,AFRO,1,1,0,0
+2020/05/14,LS,Lesotho,AFRO,1,1,0,0
+2020/10/04,SB,Solomon Islands,WPRO,1,1,0,0
+2020/10/19,WF,Wallis and Futuna,WPRO,1,1,0,0
+2020/10/29,MH,Marshall Islands,WPRO,1,1,0,0
+2020/11/11,VU,Vanuatu,WPRO,1,1,0,0
+2020/12/02,WS,Samoa,WPRO,1,1,0,0
+2021/09/19,AS,American Samoa,WPRO,1,1,0,0
+2021/10/30,TO,Tonga,WPRO,1,1,0,0
+2022/02/15,CK,Cook Islands,WPRO,1,1,0,0
+2022/03/10,NU,Niue,WPRO,1,1,0,0
+2022/08/08,SH,Saint Helena,AFRO,1,1,0,0
