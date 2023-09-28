@@ -7,7 +7,7 @@ The travel volume data (data/flight/flight_matrix_random.csv & flight_matrix_dep
 
 ## Licence
 
-TBA
+To be updated
 
 ## Authors
 [Sung-mok Jung](https://github.com/SungmokJung),
