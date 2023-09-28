@@ -3,233 +3,233 @@
 "2","Australia and New Zealand","Australia","AUS",263.5,426.6918319,"Oceania",26177.413,1.63,263.5,1.00659297387408,1.63
 "3","Central Asia","Turkmenistan","TKM",NA,135.689247,"Asia",6430.77,2.11,135.689247,2.11,2.11
 "4","Central Asia","Tajikistan","TJK",13.4,210.0038057,"Asia",9952.787,2.11,13.4,0.13463565531946,2.11
-"5","Central Asia","Kyrgyzstan","KGZ",16.9,139.9061453,"Asia",6630.623,2.11,16.9,0.254878010708798,2.11
-"6","Central Asia","Uzbekistan","UZB",NA,730.6434572,"Asia",34627.652,2.11,730.6434572,2.11,2.11
-"7","Central Asia","Kazakhstan","KAZ",62,409.2977578,"Asia",19397.998,2.11,62,0.319620612395155,2.11
-"8","Eastern Asia","Korea, Republic of","KOR",NA,NA,"Asia",51815.81,1.63,844.597703,1.63,1.63
-"9","Eastern Asia","Macao","MAC",NA,NA,"Asia",695.168,1.63,11.3312384,1.63,1.63
-"10","Eastern Asia","Japan","JPN",700,2020.4125796,"Asia",123951.692,1.63,700,0.564736139301753,1.63
-"11","Eastern Asia","Korea (Democratic People's Republic of)","PRK",NA,NA,"Asia",26069.416,1.63,424.9314808,1.63,1.63
-"12","Eastern Asia","Mongolia","MNG",6.5,55.3933658,"Asia",3398.366,1.63,6.5,0.191268391927179,1.63
-"13","Eastern Asia","Hong Kong","HKG",NA,122.0684995,"Asia",7488.865,1.63,122.0684995,1.63,1.63
-"14","Eastern Asia","China","CHN",NA,23241.9635931,"Asia",1425887.337,1.63,23241.9635931,1.63,1.63
+"5","Central Asia","Uzbekistan","UZB",NA,730.6434572,"Asia",34627.652,2.11,730.6434572,2.11,2.11
+"6","Central Asia","Kazakhstan","KAZ",62,409.2977578,"Asia",19397.998,2.11,62,0.319620612395155,2.11
+"7","Central Asia","Kyrgyzstan","KGZ",16.9,139.9061453,"Asia",6630.623,2.11,16.9,0.254878010708798,2.11
+"8","Eastern Asia","Macao","MAC",NA,NA,"Asia",695.168,1.63,11.3312384,1.63,1.63
+"9","Eastern Asia","Japan","JPN",700,2020.4125796,"Asia",123951.692,1.63,700,0.564736139301753,1.63
+"10","Eastern Asia","Korea (Democratic People's Republic of)","PRK",NA,NA,"Asia",26069.416,1.63,424.9314808,1.63,1.63
+"11","Eastern Asia","China","CHN",NA,23241.9635931,"Asia",1425887.337,1.63,23241.9635931,1.63,1.63
+"12","Eastern Asia","Hong Kong","HKG",NA,122.0684995,"Asia",7488.865,1.63,122.0684995,1.63,1.63
+"13","Eastern Asia","Korea, Republic of","KOR",NA,NA,"Asia",51815.81,1.63,844.597703,1.63,1.63
+"14","Eastern Asia","Mongolia","MNG",6.5,55.3933658,"Asia",3398.366,1.63,6.5,0.191268391927179,1.63
 "15","Eastern Asia","Taiwan, Province of China","TWN",NA,NA,"Asia",23893.394,1.63,389.4623222,1.63,1.63
 "16","Eastern Europe","Bulgaria","BGR",57.8,143.0992083,"Europe",6781.953,2.11,57.8,0.852261877957573,2.11
-"17","Eastern Europe","Slovakia","SVK",NA,119.0768583,"Europe",5643.453,2.11,119.0768583,2.11,2.11
-"18","Eastern Europe","Russian Federation","RUS",NA,NA,"Europe",144713.314,2.11,3053.4509254,2.11,2.11
-"19","Eastern Europe","Belarus","BLR",32,201.1875294,"Europe",9534.954,2.11,32,0.335607282426323,2.11
-"20","Eastern Europe","Romania","ROU",10.5,414.8105337,"Europe",19659.267,2.11,10.5,0.0534099262195279,2.11
-"21","Eastern Europe","Czechia","CZE",NA,NA,"Europe",10493.986,2.11,221.4231046,2.11,2.11
-"22","Eastern Europe","Moldova, Republic of","MDA",14.6,NA,"Europe",3272.996,2.11,14.6,0.446074483439638,2.11
-"23","Eastern Europe","Ukraine","UKR",179.4,837.7066929,"Europe",39701.739,2.11,179.4,0.451869375293611,2.11
-"24","Eastern Europe","Poland","POL",NA,840.9857595,"Europe",39857.145,2.11,840.9857595,2.11,2.11
-"25","Eastern Europe","Hungary","HUN",NA,210.3101988,"Europe",9967.308,2.11,210.3101988,2.11,2.11
-"26","Latin America and the Caribbean","Curaçao","CUW",NA,NA,"Americas",191.163,3.37,6.4421931,3.37,3.37
-"27","Latin America and the Caribbean","Ecuador","ECU",89.4,606.6337,"Americas",18001,3.37,89.4,0.496639075606911,3.37
+"17","Eastern Europe","Ukraine","UKR",179.4,837.7066929,"Europe",39701.739,2.11,179.4,0.451869375293611,2.11
+"18","Eastern Europe","Hungary","HUN",NA,210.3101988,"Europe",9967.308,2.11,210.3101988,2.11,2.11
+"19","Eastern Europe","Romania","ROU",10.5,414.8105337,"Europe",19659.267,2.11,10.5,0.0534099262195279,2.11
+"20","Eastern Europe","Belarus","BLR",32,201.1875294,"Europe",9534.954,2.11,32,0.335607282426323,2.11
+"21","Eastern Europe","Moldova, Republic of","MDA",14.6,NA,"Europe",3272.996,2.11,14.6,0.446074483439638,2.11
+"22","Eastern Europe","Poland","POL",NA,840.9857595,"Europe",39857.145,2.11,840.9857595,2.11,2.11
+"23","Eastern Europe","Russian Federation","RUS",NA,NA,"Europe",144713.314,2.11,3053.4509254,2.11,2.11
+"24","Eastern Europe","Czechia","CZE",NA,NA,"Europe",10493.986,2.11,221.4231046,2.11,2.11
+"25","Eastern Europe","Slovakia","SVK",NA,119.0768583,"Europe",5643.453,2.11,119.0768583,2.11,2.11
+"26","Latin America and the Caribbean","Cuba","CUB",279.2,377.8508367,"Americas",11212.191,3.37,279.2,2.49014666268172,3.37
+"27","Latin America and the Caribbean","Peru","PER",260,1147.4711156,"Americas",34049.588,3.37,260,0.763592205579697,3.37
 "28","Latin America and the Caribbean","Bahamas","BHS",2.8,13.8164608,"Americas",409.984,3.37,2.8,0.682953481111458,3.37
-"29","Latin America and the Caribbean","Guatemala","GTM",116.5,601.3396996,"Americas",17843.908,3.37,116.5,0.652883886198024,3.37
-"30","Latin America and the Caribbean","Guyana","GUY",3.3,27.2540662,"Americas",808.726,3.37,3.3,0.408049203314843,3.37
-"31","Latin America and the Caribbean","French Guiana","GUF",NA,10.2635709,"Americas",304.557,3.37,10.2635709,3.37,3.37
-"32","Latin America and the Caribbean","Panama","PAN",29.6,148.5691797,"Americas",4408.581,3.37,29.6,0.671417855314442,3.37
-"33","Latin America and the Caribbean","Honduras","HND",40.9,351.587382,"Americas",10432.86,3.37,40.9,0.392030564964928,3.37
-"34","Latin America and the Caribbean","Cayman Islands","CYM",NA,2.3153922,"Americas",68.706,3.37,2.3153922,3.37,3.37
-"35","Latin America and the Caribbean","Montserrat","MSR",NA,0.147943,"Americas",4.39,3.37,0.147943,3.37,3.37
-"36","Latin America and the Caribbean","Bolivia (Plurinational State of)","BOL",35.5,NA,"Americas",12224.11,3.37,35.5,0.290409690357826,3.37
-"37","Latin America and the Caribbean","Argentina","ARG",205.6,1533.6977166,"Americas",45510.318,3.37,205.6,0.451765685311186,3.37
-"38","Latin America and the Caribbean","Falkland Islands (Malvinas)","FLK",NA,NA,"Americas",3.78,3.37,0.127386,3.37,3.37
-"39","Latin America and the Caribbean","Anguilla","AIA",NA,0.5343809,"Americas",15.857,3.37,0.5343809,3.37,3.37
-"40","Latin America and the Caribbean","Cuba","CUB",279.2,377.8508367,"Americas",11212.191,3.37,279.2,2.49014666268172,3.37
-"41","Latin America and the Caribbean","Venezuela (Bolivarian Republic of)","VEN",210.8,NA,"Americas",28301.696,3.37,210.8,0.744831687825352,3.37
-"42","Latin America and the Caribbean","Antigua and Barbuda","ATG",NA,3.1598131,"Americas",93.763,3.37,3.1598131,3.37,3.37
-"43","Latin America and the Caribbean","Dominican Republic","DOM",142,378.4112677,"Americas",11228.821,3.37,142,1.26460293560651,3.37
-"44","Latin America and the Caribbean","Uruguay","URY",28.6,115.3481578,"Americas",3422.794,3.37,28.6,0.835574679633072,3.37
-"45","Latin America and the Caribbean","Aruba","ABW",NA,3.5871965,"Americas",106.445,3.37,3.5871965,3.37,3.37
-"46","Latin America and the Caribbean","Costa Rica","CRI",10.1,174.5939373,"Americas",5180.829,3.37,10.1,0.194949495534402,3.37
-"47","Latin America and the Caribbean","Peru","PER",260,1147.4711156,"Americas",34049.588,3.37,260,0.763592205579697,3.37
-"48","Latin America and the Caribbean","Virgin Islands (British)","VGB",NA,NA,"Americas",31.305,3.37,1.0549785,3.37,3.37
-"49","Latin America and the Caribbean","Saint Martin (French part)","MAF",NA,NA,"Americas",31.791,3.37,1.0713567,3.37,3.37
-"50","Latin America and the Caribbean","Barbados","BRB",2.6,9.4910995,"Americas",281.635,3.37,2.6,0.923180712624496,3.37
-"51","Latin America and the Caribbean","Brazil","BRA",2000,7256.0648826,"Americas",215313.498,3.37,2000,0.928878132851662,3.37
-"52","Latin America and the Caribbean","Martinique","MTQ",NA,12.3849859,"Americas",367.507,3.37,12.3849859,3.37,3.37
-"53","Latin America and the Caribbean","Saint Barthélemy","BLM",NA,NA,"Americas",10.967,3.37,0.3695879,3.37,3.37
-"54","Latin America and the Caribbean","Belize","BLZ",NA,13.6576664,"Americas",405.272,3.37,13.6576664,3.37,3.37
-"55","Latin America and the Caribbean","Guadeloupe","GLP",NA,13.3368424,"Americas",395.752,3.37,13.3368424,3.37,3.37
-"56","Latin America and the Caribbean","Mexico","MEX",1200,4296.8890125,"Americas",127504.125,3.37,1200,0.941146021746355,3.37
-"57","Latin America and the Caribbean","Saint Lucia","LCA",3,6.0611809,"Americas",179.857,3.37,3,1.66799179348038,3.37
-"58","Latin America and the Caribbean","El Salvador","SLV",54.1,213.5364104,"Americas",6336.392,3.37,54.1,0.853798186728346,3.37
-"59","Latin America and the Caribbean","Saint Kitts and Nevis","KNA",NA,1.6060409,"Americas",47.657,3.37,1.6060409,3.37,3.37
-"60","Latin America and the Caribbean","Sint Maarten (Dutch part)","SXM",NA,NA,"Americas",44.175,3.37,1.4886975,3.37,3.37
-"61","Latin America and the Caribbean","Puerto Rico","PRI",NA,109.6061159,"Americas",3252.407,3.37,109.6061159,3.37,3.37
-"62","Latin America and the Caribbean","Virgin Islands (U.S.)","VIR",NA,NA,"Americas",99.465,3.37,3.3519705,3.37,3.37
-"63","Latin America and the Caribbean","Chile","CHL",122.6,660.6458021,"Americas",19603.733,3.37,122.6,0.625391092604658,3.37
-"64","Latin America and the Caribbean","Jamaica","JAM",42.4,95.2826049,"Americas",2827.377,3.37,42.4,1.49962314894689,3.37
-"65","Latin America and the Caribbean","Grenada","GRD",2.4,4.2272606,"Americas",125.438,3.37,2.4,1.91329581147659,3.37
-"66","Latin America and the Caribbean","Saint Vincent and the Grenadines","VCT",0.3,3.5030476,"Americas",103.948,3.37,0.3,0.28860584138223,3.37
-"67","Latin America and the Caribbean","Colombia","COL",356.7,1748.1546088,"Americas",51874.024,3.37,356.7,0.687627395167955,3.37
-"68","Latin America and the Caribbean","Dominica","DMA",0.5,2.4512369,"Americas",72.737,3.37,0.5,0.687408059172086,3.37
-"69","Latin America and the Caribbean","Trinidad and Tobago","TTO",NA,51.5961828,"Americas",1531.044,3.37,51.5961828,3.37,3.37
-"70","Latin America and the Caribbean","Nicaragua","NIC",35.5,234.1608104,"Americas",6948.392,3.37,35.5,0.510909574474209,3.37
-"71","Latin America and the Caribbean","Paraguay","PRY",27.7,228.5110728,"Americas",6780.744,3.37,27.7,0.408509744653389,3.37
-"72","Latin America and the Caribbean","Haiti","HTI",30.9,390.4143652,"Americas",11584.996,3.37,30.9,0.266724304436532,3.37
-"73","Latin America and the Caribbean","Suriname","SUR",1.3,20.827948,"Americas",618.04,3.37,1.3,0.210342372661964,3.37
-"74","Latin America and the Caribbean","Turks and Caicos Islands","TCA",NA,1.5401911,"Americas",45.703,3.37,1.5401911,3.37,3.37
+"29","Latin America and the Caribbean","Saint Martin (French part)","MAF",NA,NA,"Americas",31.791,3.37,1.0713567,3.37,3.37
+"30","Latin America and the Caribbean","Antigua and Barbuda","ATG",NA,3.1598131,"Americas",93.763,3.37,3.1598131,3.37,3.37
+"31","Latin America and the Caribbean","Montserrat","MSR",NA,0.147943,"Americas",4.39,3.37,0.147943,3.37,3.37
+"32","Latin America and the Caribbean","Anguilla","AIA",NA,0.5343809,"Americas",15.857,3.37,0.5343809,3.37,3.37
+"33","Latin America and the Caribbean","Costa Rica","CRI",10.1,174.5939373,"Americas",5180.829,3.37,10.1,0.194949495534402,3.37
+"34","Latin America and the Caribbean","Barbados","BRB",2.6,9.4910995,"Americas",281.635,3.37,2.6,0.923180712624496,3.37
+"35","Latin America and the Caribbean","Guatemala","GTM",116.5,601.3396996,"Americas",17843.908,3.37,116.5,0.652883886198024,3.37
+"36","Latin America and the Caribbean","Aruba","ABW",NA,3.5871965,"Americas",106.445,3.37,3.5871965,3.37,3.37
+"37","Latin America and the Caribbean","Virgin Islands (U.S.)","VIR",NA,NA,"Americas",99.465,3.37,3.3519705,3.37,3.37
+"38","Latin America and the Caribbean","Saint Kitts and Nevis","KNA",NA,1.6060409,"Americas",47.657,3.37,1.6060409,3.37,3.37
+"39","Latin America and the Caribbean","Guyana","GUY",3.3,27.2540662,"Americas",808.726,3.37,3.3,0.408049203314843,3.37
+"40","Latin America and the Caribbean","Virgin Islands (British)","VGB",NA,NA,"Americas",31.305,3.37,1.0549785,3.37,3.37
+"41","Latin America and the Caribbean","Martinique","MTQ",NA,12.3849859,"Americas",367.507,3.37,12.3849859,3.37,3.37
+"42","Latin America and the Caribbean","Belize","BLZ",NA,13.6576664,"Americas",405.272,3.37,13.6576664,3.37,3.37
+"43","Latin America and the Caribbean","Falkland Islands (Malvinas)","FLK",NA,NA,"Americas",3.78,3.37,0.127386,3.37,3.37
+"44","Latin America and the Caribbean","Honduras","HND",40.9,351.587382,"Americas",10432.86,3.37,40.9,0.392030564964928,3.37
+"45","Latin America and the Caribbean","Panama","PAN",29.6,148.5691797,"Americas",4408.581,3.37,29.6,0.671417855314442,3.37
+"46","Latin America and the Caribbean","Bolivia (Plurinational State of)","BOL",35.5,NA,"Americas",12224.11,3.37,35.5,0.290409690357826,3.37
+"47","Latin America and the Caribbean","Argentina","ARG",205.6,1533.6977166,"Americas",45510.318,3.37,205.6,0.451765685311186,3.37
+"48","Latin America and the Caribbean","Ecuador","ECU",89.4,606.6337,"Americas",18001,3.37,89.4,0.496639075606911,3.37
+"49","Latin America and the Caribbean","Saint Lucia","LCA",3,6.0611809,"Americas",179.857,3.37,3,1.66799179348038,3.37
+"50","Latin America and the Caribbean","Curaçao","CUW",NA,NA,"Americas",191.163,3.37,6.4421931,3.37,3.37
+"51","Latin America and the Caribbean","Venezuela (Bolivarian Republic of)","VEN",210.8,NA,"Americas",28301.696,3.37,210.8,0.744831687825352,3.37
+"52","Latin America and the Caribbean","Cayman Islands","CYM",NA,2.3153922,"Americas",68.706,3.37,2.3153922,3.37,3.37
+"53","Latin America and the Caribbean","Jamaica","JAM",42.4,95.2826049,"Americas",2827.377,3.37,42.4,1.49962314894689,3.37
+"54","Latin America and the Caribbean","Saint Vincent and the Grenadines","VCT",0.3,3.5030476,"Americas",103.948,3.37,0.3,0.28860584138223,3.37
+"55","Latin America and the Caribbean","Puerto Rico","PRI",NA,109.6061159,"Americas",3252.407,3.37,109.6061159,3.37,3.37
+"56","Latin America and the Caribbean","Brazil","BRA",2000,7256.0648826,"Americas",215313.498,3.37,2000,0.928878132851662,3.37
+"57","Latin America and the Caribbean","French Guiana","GUF",NA,10.2635709,"Americas",304.557,3.37,10.2635709,3.37,3.37
+"58","Latin America and the Caribbean","Uruguay","URY",28.6,115.3481578,"Americas",3422.794,3.37,28.6,0.835574679633072,3.37
+"59","Latin America and the Caribbean","Suriname","SUR",1.3,20.827948,"Americas",618.04,3.37,1.3,0.210342372661964,3.37
+"60","Latin America and the Caribbean","Guadeloupe","GLP",NA,13.3368424,"Americas",395.752,3.37,13.3368424,3.37,3.37
+"61","Latin America and the Caribbean","Chile","CHL",122.6,660.6458021,"Americas",19603.733,3.37,122.6,0.625391092604658,3.37
+"62","Latin America and the Caribbean","Sint Maarten (Dutch part)","SXM",NA,NA,"Americas",44.175,3.37,1.4886975,3.37,3.37
+"63","Latin America and the Caribbean","Turks and Caicos Islands","TCA",NA,1.5401911,"Americas",45.703,3.37,1.5401911,3.37,3.37
+"64","Latin America and the Caribbean","Paraguay","PRY",27.7,228.5110728,"Americas",6780.744,3.37,27.7,0.408509744653389,3.37
+"65","Latin America and the Caribbean","Dominica","DMA",0.5,2.4512369,"Americas",72.737,3.37,0.5,0.687408059172086,3.37
+"66","Latin America and the Caribbean","Grenada","GRD",2.4,4.2272606,"Americas",125.438,3.37,2.4,1.91329581147659,3.37
+"67","Latin America and the Caribbean","Dominican Republic","DOM",142,378.4112677,"Americas",11228.821,3.37,142,1.26460293560651,3.37
+"68","Latin America and the Caribbean","Saint Barthélemy","BLM",NA,NA,"Americas",10.967,3.37,0.3695879,3.37,3.37
+"69","Latin America and the Caribbean","El Salvador","SLV",54.1,213.5364104,"Americas",6336.392,3.37,54.1,0.853798186728346,3.37
+"70","Latin America and the Caribbean","Trinidad and Tobago","TTO",NA,51.5961828,"Americas",1531.044,3.37,51.5961828,3.37,3.37
+"71","Latin America and the Caribbean","Haiti","HTI",30.9,390.4143652,"Americas",11584.996,3.37,30.9,0.266724304436532,3.37
+"72","Latin America and the Caribbean","Colombia","COL",356.7,1748.1546088,"Americas",51874.024,3.37,356.7,0.687627395167955,3.37
+"73","Latin America and the Caribbean","Mexico","MEX",1200,4296.8890125,"Americas",127504.125,3.37,1200,0.941146021746355,3.37
+"74","Latin America and the Caribbean","Nicaragua","NIC",35.5,234.1608104,"Americas",6948.392,3.37,35.5,0.510909574474209,3.37
 "75","Melanesia","New Caledonia","NCL",NA,4.726185,"Oceania",289.95,1.63,4.726185,1.63,1.63
-"76","Melanesia","Solomon Islands","SLB",0.2,11.8056499,"Oceania",724.273,1.63,0.2,0.027613896969789,1.63
-"77","Melanesia","Papua New Guinea","PNG",37.8,165.3246897,"Oceania",10142.619,1.63,37.8,0.37268480655736,1.63
-"78","Melanesia","Vanuatu","VUT",NA,5.325862,"Oceania",326.74,1.63,5.325862,1.63,1.63
-"79","Melanesia","Fiji","FJI",NA,15.1551858,"Oceania",929.766,1.63,15.1551858,1.63,1.63
+"76","Melanesia","Papua New Guinea","PNG",37.8,165.3246897,"Oceania",10142.619,1.63,37.8,0.37268480655736,1.63
+"77","Melanesia","Solomon Islands","SLB",0.2,11.8056499,"Oceania",724.273,1.63,0.2,0.027613896969789,1.63
+"78","Melanesia","Fiji","FJI",NA,15.1551858,"Oceania",929.766,1.63,15.1551858,1.63,1.63
+"79","Melanesia","Vanuatu","VUT",NA,5.325862,"Oceania",326.74,1.63,5.325862,1.63,1.63
 "80","Micronesia","Micronesia (Federated States of)","FSM",NA,NA,"Oceania",114.164,1.63,1.8608732,1.63,1.63
 "81","Micronesia","Guam","GUM",NA,2.7999162,"Oceania",171.774,1.63,2.7999162,1.63,1.63
 "82","Micronesia","Kiribati","KIR",NA,2.1390816,"Oceania",131.232,1.63,2.1390816,1.63,1.63
-"83","Micronesia","Palau","PLW",NA,0.2942965,"Oceania",18.055,1.63,0.2942965,1.63,1.63
-"84","Micronesia","Northern Mariana Islands","MNP",NA,0.8076813,"Oceania",49.551,1.63,0.8076813,1.63,1.63
-"85","Micronesia","Marshall Islands","MHL",NA,0.6775747,"Oceania",41.569,1.63,0.6775747,1.63,1.63
+"83","Micronesia","Northern Mariana Islands","MNP",NA,0.8076813,"Oceania",49.551,1.63,0.8076813,1.63,1.63
+"84","Micronesia","Marshall Islands","MHL",NA,0.6775747,"Oceania",41.569,1.63,0.6775747,1.63,1.63
+"85","Micronesia","Palau","PLW",NA,0.2942965,"Oceania",18.055,1.63,0.2942965,1.63,1.63
 "86","Micronesia","Nauru","NRU",NA,0.2064884,"Oceania",12.668,1.63,0.2064884,1.63,1.63
-"87","Northern Africa","Morocco","MAR",42,382.0713042,"Africa",37457.971,1.02,42,0.112125667458069,1.02
+"87","Northern Africa","Libya","LBY",NA,69.4858782,"Africa",6812.341,1.02,69.4858782,1.02,1.02
 "88","Northern Africa","Tunisia","TUN",28,126.0323934,"Africa",12356.117,1.02,28,0.226608407803196,1.02
-"89","Northern Africa","Sudan","SDN",132,478.1168808,"Africa",46874.204,1.02,132,0.281604782024672,1.02
-"90","Northern Africa","Libya","LBY",NA,69.4858782,"Africa",6812.341,1.02,69.4858782,1.02,1.02
-"91","Northern Africa","Egypt","EGY",64.3,1132.0990506,"Africa",110990.103,1.02,64.3,0.0579330933677933,1.02
-"92","Northern Africa","Algeria","DZA",NA,458.012895,"Africa",44903.225,1.02,458.012895,1.02,1.02
-"93","Northern Africa","Western Sahara","ESH",NA,5.8750572,"Africa",575.986,1.02,5.8750572,1.02,1.02
+"89","Northern Africa","Egypt","EGY",64.3,1132.0990506,"Africa",110990.103,1.02,64.3,0.0579330933677933,1.02
+"90","Northern Africa","Sudan","SDN",132,478.1168808,"Africa",46874.204,1.02,132,0.281604782024672,1.02
+"91","Northern Africa","Western Sahara","ESH",NA,5.8750572,"Africa",575.986,1.02,5.8750572,1.02,1.02
+"92","Northern Africa","Morocco","MAR",42,382.0713042,"Africa",37457.971,1.02,42,0.112125667458069,1.02
+"93","Northern Africa","Algeria","DZA",NA,458.012895,"Africa",44903.225,1.02,458.012895,1.02,1.02
 "94","Northern America","Bermuda","BMU",NA,NA,"Americas",64.184,NA,0.718819322375309,1.11993537700254,1.11993537700254
 "95","Northern America","United States of America","USA",4500,NA,"Americas",338289.857,NA,4500,1.33022019634482,1.11993537700254
-"96","Northern America","Saint Pierre and Miquelon","SPM",NA,NA,"Americas",5.862,NA,0.0656506117998888,1.11993537700254,1.11993537700254
-"97","Northern America","Canada","CAN",349.8,NA,"Americas",38454.327,NA,349.8,0.90965055766026,1.11993537700254
+"96","Northern America","Canada","CAN",349.8,NA,"Americas",38454.327,NA,349.8,0.90965055766026,1.11993537700254
+"97","Northern America","Saint Pierre and Miquelon","SPM",NA,NA,"Americas",5.862,NA,0.0656506117998888,1.11993537700254,1.11993537700254
 "98","Northern America","Greenland","GRL",NA,NA,"Americas",56.466,NA,0.632382709978253,1.11993537700254,1.11993537700254
-"99","Northern Europe","Latvia","LVA",NA,NA,"Europe",1850.651,NA,16.6367904182378,0.898969628430091,0.898969628430091
-"100","Northern Europe","Denmark","DNK",50,NA,"Europe",5882.261,NA,50,0.850013285707656,0.898969628430091
-"101","Northern Europe","Estonia","EST",9,NA,"Europe",1326.062,NA,9,0.678701297526058,0.898969628430091
-"102","Northern Europe","Norway","NOR",NA,NA,"Europe",5434.319,NA,48.8528773220059,0.898969628430091,0.898969628430091
-"103","Northern Europe","Isle of Man","IMN",NA,NA,"Europe",84.519,NA,0.759800140252829,0.898969628430091,0.898969628430091
-"104","Northern Europe","Faroe Islands","FRO",NA,NA,"Europe",53.09,NA,0.477262975733536,0.898969628430091,0.898969628430091
-"105","Northern Europe","United Kingdom of Great Britain and Northern Ireland","GBR",NA,NA,"Europe",67508.936,NA,606.884831116308,0.898969628430091,0.898969628430091
-"106","Northern Europe","Sweden","SWE",100,NA,"Europe",10549.347,NA,100,0.947925971152527,0.898969628430091
-"107","Northern Europe","Ireland","IRL",86.5,NA,"Europe",5023.109,NA,86.5,1.72204107057999,0.898969628430091
-"108","Northern Europe","Finland","FIN",NA,NA,"Europe",5540.745,NA,49.8096147387589,0.898969628430091,0.898969628430091
-"109","Northern Europe","Guernsey","GGY",NA,NA,"Europe",63.301,NA,0.569056764492532,0.898969628430091,0.898969628430091
-"110","Northern Europe","Lithuania","LTU",NA,NA,"Europe",2750.055,NA,24.7221592151231,0.898969628430091,0.898969628430091
-"111","Northern Europe","Iceland","ISL",NA,NA,"Europe",372.899,NA,3.35224875471953,0.898969628430091,0.898969628430091
-"112","Northern Europe","Jersey","JEY",NA,NA,"Europe",110.778,NA,0.995860574982287,0.898969628430091,0.898969628430091
-"113","Polynesia","Tonga","TON",NA,1.7417854,"Oceania",106.858,1.63,1.7417854,1.63,1.63
-"114","Polynesia","French Polynesia","PYF",NA,4.9923477,"Oceania",306.279,1.63,4.9923477,1.63,1.63
-"115","Polynesia","Samoa","WSM",25,3.6248266,"Oceania",222.382,1.63,3.6248266,1.63,1.63
-"116","Polynesia","Tokelau","TKL",NA,0.0304973,"Oceania",1.871,1.63,0.0304973,1.63,1.63
-"117","Polynesia","American Samoa","ASM",NA,0.7216499,"Oceania",44.273,1.63,0.7216499,1.63,1.63
-"118","Polynesia","Wallis and Futuna","WLF",NA,0.1886236,"Oceania",11.572,1.63,0.1886236,1.63,1.63
+"99","Northern Europe","Denmark","DNK",50,NA,"Europe",5882.261,NA,50,0.850013285707656,0.898969628430091
+"100","Northern Europe","Finland","FIN",NA,NA,"Europe",5540.745,NA,49.8096147387589,0.898969628430091,0.898969628430091
+"101","Northern Europe","Guernsey","GGY",NA,NA,"Europe",63.301,NA,0.569056764492532,0.898969628430091,0.898969628430091
+"102","Northern Europe","Isle of Man","IMN",NA,NA,"Europe",84.519,NA,0.759800140252829,0.898969628430091,0.898969628430091
+"103","Northern Europe","United Kingdom of Great Britain and Northern Ireland","GBR",NA,NA,"Europe",67508.936,NA,606.884831116308,0.898969628430091,0.898969628430091
+"104","Northern Europe","Jersey","JEY",NA,NA,"Europe",110.778,NA,0.995860574982287,0.898969628430091,0.898969628430091
+"105","Northern Europe","Sweden","SWE",100,NA,"Europe",10549.347,NA,100,0.947925971152527,0.898969628430091
+"106","Northern Europe","Faroe Islands","FRO",NA,NA,"Europe",53.09,NA,0.477262975733536,0.898969628430091,0.898969628430091
+"107","Northern Europe","Lithuania","LTU",NA,NA,"Europe",2750.055,NA,24.7221592151231,0.898969628430091,0.898969628430091
+"108","Northern Europe","Iceland","ISL",NA,NA,"Europe",372.899,NA,3.35224875471953,0.898969628430091,0.898969628430091
+"109","Northern Europe","Ireland","IRL",86.5,NA,"Europe",5023.109,NA,86.5,1.72204107057999,0.898969628430091
+"110","Northern Europe","Norway","NOR",NA,NA,"Europe",5434.319,NA,48.8528773220059,0.898969628430091,0.898969628430091
+"111","Northern Europe","Latvia","LVA",NA,NA,"Europe",1850.651,NA,16.6367904182378,0.898969628430091,0.898969628430091
+"112","Northern Europe","Estonia","EST",9,NA,"Europe",1326.062,NA,9,0.678701297526058,0.898969628430091
+"113","Polynesia","Cook Islands","COK",NA,0.2772793,"Oceania",17.011,1.63,0.2772793,1.63,1.63
+"114","Polynesia","Tonga","TON",NA,1.7417854,"Oceania",106.858,1.63,1.7417854,1.63,1.63
+"115","Polynesia","American Samoa","ASM",NA,0.7216499,"Oceania",44.273,1.63,0.7216499,1.63,1.63
+"116","Polynesia","Samoa","WSM",25,3.6248266,"Oceania",222.382,1.63,3.6248266,1.63,1.63
+"117","Polynesia","French Polynesia","PYF",NA,4.9923477,"Oceania",306.279,1.63,4.9923477,1.63,1.63
+"118","Polynesia","Niue","NIU",NA,0.0315242,"Oceania",1.934,1.63,0.0315242,1.63,1.63
 "119","Polynesia","Tuvalu","TUV",NA,0.1843856,"Oceania",11.312,1.63,0.1843856,1.63,1.63
-"120","Polynesia","Cook Islands","COK",NA,0.2772793,"Oceania",17.011,1.63,0.2772793,1.63,1.63
-"121","Polynesia","Niue","NIU",NA,0.0315242,"Oceania",1.934,1.63,0.0315242,1.63,1.63
-"122","South-eastern Asia","Philippines","PHL",678.1,1883.6118467,"Asia",115559.009,1.63,678.1,0.586799770842618,1.63
-"123","South-eastern Asia","Cambodia","KHM",88,273.3158246,"Asia",16767.842,1.63,88,0.524814105476423,1.63
+"120","Polynesia","Tokelau","TKL",NA,0.0304973,"Oceania",1.871,1.63,0.0304973,1.63,1.63
+"121","Polynesia","Wallis and Futuna","WLF",NA,0.1886236,"Oceania",11.572,1.63,0.1886236,1.63,1.63
+"122","South-eastern Asia","Cambodia","KHM",88,273.3158246,"Asia",16767.842,1.63,88,0.524814105476423,1.63
+"123","South-eastern Asia","Singapore","SGP",NA,97.4037307,"Asia",5975.689,1.63,97.4037307,1.63,1.63
 "124","South-eastern Asia","Indonesia","IDN",754.3,4490.6718257,"Asia",275501.339,1.63,754.3,0.273791772750694,1.63
-"125","South-eastern Asia","Thailand","THA",527.9,1168.661589,"Asia",71697.03,1.63,527.9,0.736292702780018,1.63
-"126","South-eastern Asia","Brunei Darussalam","BRN",NA,NA,"Asia",449.002,1.63,7.3187326,1.63,1.63
-"127","South-eastern Asia","Viet Nam","VNM",256,NA,"Asia",98186.856,1.63,256,0.260727362530072,1.63
-"128","South-eastern Asia","Malaysia","MYS",220,553.1930023,"Asia",33938.221,1.63,220,0.648236688658489,1.63
-"129","South-eastern Asia","Singapore","SGP",NA,97.4037307,"Asia",5975.689,1.63,97.4037307,1.63,1.63
-"130","South-eastern Asia","Myanmar","MMR",252,883.1226878,"Asia",54179.306,1.63,252,0.46512223689244,1.63
-"131","South-eastern Asia","Lao People's Democratic Republic","LAO",57.8,NA,"Asia",7529.475,1.63,57.8,0.767649802941108,1.63
+"125","South-eastern Asia","Viet Nam","VNM",256,NA,"Asia",98186.856,1.63,256,0.260727362530072,1.63
+"126","South-eastern Asia","Myanmar","MMR",252,883.1226878,"Asia",54179.306,1.63,252,0.46512223689244,1.63
+"127","South-eastern Asia","Thailand","THA",527.9,1168.661589,"Asia",71697.03,1.63,527.9,0.736292702780018,1.63
+"128","South-eastern Asia","Brunei Darussalam","BRN",NA,NA,"Asia",449.002,1.63,7.3187326,1.63,1.63
+"129","South-eastern Asia","Lao People's Democratic Republic","LAO",57.8,NA,"Asia",7529.475,1.63,57.8,0.767649802941108,1.63
+"130","South-eastern Asia","Philippines","PHL",678.1,1883.6118467,"Asia",115559.009,1.63,678.1,0.586799770842618,1.63
+"131","South-eastern Asia","Malaysia","MYS",220,553.1930023,"Asia",33938.221,1.63,220,0.648236688658489,1.63
 "132","South-eastern Asia","Timor-Leste","TLS",8.7,21.8631248,"Asia",1341.296,1.63,8.7,0.648626403120564,1.63
-"133","Southern Asia","Bangladesh","BGD",101.7,2790.3378636,"Asia",171186.372,1.63,101.7,0.0594089347252479,1.63
+"133","Southern Asia","Afghanistan","AFG",10,670.3989673,"Asia",41128.771,1.63,10,0.0243138799357754,1.63
 "134","Southern Asia","Maldives","MDV",NA,8.5377281,"Asia",523.787,1.63,8.5377281,1.63,1.63
 "135","Southern Asia","India","IND",NA,23099.9227199,"Asia",1417173.173,1.63,23099.9227199,1.63,1.63
-"136","Southern Asia","Afghanistan","AFG",10,670.3989673,"Asia",41128.771,1.63,10,0.0243138799357754,1.63
-"137","Southern Asia","Nepal","NPL",60.3,497.925554,"Asia",30547.58,1.63,60.3,0.197396978745943,1.63
-"138","Southern Asia","Sri Lanka","LKA",73.8,355.8639309,"Asia",21832.143,1.63,73.8,0.338033696463054,1.63
-"139","Southern Asia","Bhutan","BTN",1.7,12.7540165,"Asia",782.455,1.63,1.7,0.217264890632688,1.63
-"140","Southern Asia","Iran (Islamic Republic of)","IRN",NA,NA,"Asia",88550.57,1.63,1443.374291,1.63,1.63
-"141","Southern Asia","Pakistan","PAK",832.2,3843.9452506,"Asia",235824.862,1.63,832.2,0.352889001160531,1.63
-"142","Southern Europe","Malta","MLT",NA,NA,"Europe",533.286,NA,2.95393460931555,0.553911898927696,0.553911898927696
-"143","Southern Europe","Serbia","SRB",40,NA,"Europe",7221.365,NA,40,0.553911898927696,0.553911898927696
+"136","Southern Asia","Bangladesh","BGD",101.7,2790.3378636,"Asia",171186.372,1.63,101.7,0.0594089347252479,1.63
+"137","Southern Asia","Sri Lanka","LKA",73.8,355.8639309,"Asia",21832.143,1.63,73.8,0.338033696463054,1.63
+"138","Southern Asia","Bhutan","BTN",1.7,12.7540165,"Asia",782.455,1.63,1.7,0.217264890632688,1.63
+"139","Southern Asia","Nepal","NPL",60.3,497.925554,"Asia",30547.58,1.63,60.3,0.197396978745943,1.63
+"140","Southern Asia","Pakistan","PAK",832.2,3843.9452506,"Asia",235824.862,1.63,832.2,0.352889001160531,1.63
+"141","Southern Asia","Iran (Islamic Republic of)","IRN",NA,NA,"Asia",88550.57,1.63,1443.374291,1.63,1.63
+"142","Southern Europe","Slovenia","SVN",NA,NA,"Europe",2119.844,NA,11.7420681547048,0.553911898927696,0.553911898927696
+"143","Southern Europe","San Marino","SMR",NA,NA,"Europe",33.66,NA,0.186446745179062,0.553911898927696,0.553911898927696
 "144","Southern Europe","North Macedonia","MKD",11.1,NA,"Europe",2093.599,NA,11.1,0.530187490536631,0.553911898927696
-"145","Southern Europe","Croatia","HRV",29.5,NA,"Europe",4030.358,NA,29.5,0.731944904149954,0.553911898927696
-"146","Southern Europe","Andorra","AND",NA,NA,"Europe",79.824,NA,0.442154634200044,0.553911898927696,0.553911898927696
-"147","Southern Europe","Gibraltar","GIB",NA,NA,"Europe",32.649,NA,0.180846695880903,0.553911898927696,0.553911898927696
-"148","Southern Europe","Albania","ALB",7.1,NA,"Europe",2842.321,NA,7.1,0.249795853459198,0.553911898927696
-"149","Southern Europe","Greece","GRC",94,NA,"Europe",10384.971,NA,94,0.905154188682857,0.553911898927696
-"150","Southern Europe","Italy","ITA",NA,NA,"Europe",59037.474,NA,327.015593312345,0.553911898927696,0.553911898927696
-"151","Southern Europe","Slovenia","SVN",NA,NA,"Europe",2119.844,NA,11.7420681547048,0.553911898927696,0.553911898927696
-"152","Southern Europe","Holy See","VAT",NA,NA,"Europe",0.51,NA,0.00282495068453125,0.553911898927696,0.553911898927696
-"153","Southern Europe","Spain","ESP",890.2,NA,"Europe",47558.63,NA,890.2,1.87179487718633,0.553911898927696
+"145","Southern Europe","Greece","GRC",94,NA,"Europe",10384.971,NA,94,0.905154188682857,0.553911898927696
+"146","Southern Europe","Serbia","SRB",40,NA,"Europe",7221.365,NA,40,0.553911898927696,0.553911898927696
+"147","Southern Europe","Montenegro","MNE",NA,NA,"Europe",627.082,NA,3.47348181403377,0.553911898927696,0.553911898927696
+"148","Southern Europe","Malta","MLT",NA,NA,"Europe",533.286,NA,2.95393460931555,0.553911898927696,0.553911898927696
+"149","Southern Europe","Croatia","HRV",29.5,NA,"Europe",4030.358,NA,29.5,0.731944904149954,0.553911898927696
+"150","Southern Europe","Albania","ALB",7.1,NA,"Europe",2842.321,NA,7.1,0.249795853459198,0.553911898927696
+"151","Southern Europe","Portugal","PRT",NA,NA,"Europe",10270.865,NA,56.8915433578001,0.553911898927696,0.553911898927696
+"152","Southern Europe","Andorra","AND",NA,NA,"Europe",79.824,NA,0.442154634200044,0.553911898927696,0.553911898927696
+"153","Southern Europe","Gibraltar","GIB",NA,NA,"Europe",32.649,NA,0.180846695880903,0.553911898927696,0.553911898927696
 "154","Southern Europe","Bosnia and Herzegovina","BIH",6.9,NA,"Europe",3233.526,NA,6.9,0.213389346490487,0.553911898927696
-"155","Southern Europe","Montenegro","MNE",NA,NA,"Europe",627.082,NA,3.47348181403377,0.553911898927696,0.553911898927696
-"156","Southern Europe","San Marino","SMR",NA,NA,"Europe",33.66,NA,0.186446745179062,0.553911898927696,0.553911898927696
-"157","Southern Europe","Portugal","PRT",NA,NA,"Europe",10270.865,NA,56.8915433578001,0.553911898927696,0.553911898927696
-"158","Sub-Saharan Africa","Gambia","GMB",1.7,39.236884,"Africa",2705.992,1.45,1.7,0.0628235412373725,1.45
-"159","Sub-Saharan Africa","Côte d'Ivoire","CIV",56,NA,"Africa",28160.542,1.45,56,0.198859808877258,1.45
-"160","Sub-Saharan Africa","Djibouti","DJI",0.9,16.2523105,"Africa",1120.849,1.45,0.9,0.080296275412656,1.45
-"161","Sub-Saharan Africa","Gabon","GAB",NA,34.640384,"Africa",2388.992,1.45,34.640384,1.45,1.45
-"162","Sub-Saharan Africa","Burundi","BDI",9.3,186.898852,"Africa",12889.576,1.45,9.3,0.0721513260017242,1.45
-"163","Sub-Saharan Africa","Congo, Democratic Republic of the","COD",194.9,NA,"Africa",99010.212,1.45,194.9,0.196848381659864,1.45
-"164","Sub-Saharan Africa","Cameroon","CMR",7,404.760772,"Africa",27914.536,1.45,7,0.0250765407671473,1.45
-"165","Sub-Saharan Africa","Guinea","GIN",0.8,200.9604445,"Africa",13859.341,1.45,0.8,0.00577228022602229,1.45
-"166","Sub-Saharan Africa","Congo","COG",1.3,NA,"Africa",5970.424,1.45,1.3,0.0217739979606139,1.45
-"167","Sub-Saharan Africa","Zambia","ZMB",6.5,290.2562875,"Africa",20017.675,1.45,6.5,0.0324713034855447,1.45
-"168","Sub-Saharan Africa","Mali","MLI",4.1,327.607055,"Africa",22593.59,1.45,4.1,0.0181467398496653,1.45
-"169","Sub-Saharan Africa","Ethiopia","ETH",NA,1789.008898,"Africa",123379.924,1.45,1789.008898,1.45,1.45
-"170","Sub-Saharan Africa","Equatorial Guinea","GNQ",NA,24.286166,"Africa",1674.908,1.45,24.286166,1.45,1.45
-"171","Sub-Saharan Africa","Rwanda","RWA",5,199.762121,"Africa",13776.698,1.45,5,0.0362931669112584,1.45
-"172","Sub-Saharan Africa","Mauritania","MRT",7.6,68.6740155,"Africa",4736.139,1.45,7.6,0.160468263283658,1.45
-"173","Sub-Saharan Africa","Mauritius","MUS",5.5,18.8423005,"Africa",1299.469,1.45,5.5,0.423249804343159,1.45
-"174","Sub-Saharan Africa","Mayotte","MYT",NA,4.7284645,"Africa",326.101,1.45,4.7284645,1.45,1.45
-"175","Sub-Saharan Africa","Kenya","KEN",32.6,783.3985615,"Africa",54027.487,1.45,32.6,0.0603396563678781,1.45
-"176","Sub-Saharan Africa","Cabo Verde","CPV",NA,NA,"Africa",593.149,1.45,8.6006605,1.45,1.45
-"177","Sub-Saharan Africa","Seychelles","SYC",0.2,1.553211,"Africa",107.118,1.45,0.2,0.186709983382812,1.45
-"178","Sub-Saharan Africa","Niger","NER",48.9,380.0156665,"Africa",26207.977,1.45,48.9,0.186584412829727,1.45
-"179","Sub-Saharan Africa","Nigeria","NGA",240,3168.847574,"Africa",218541.212,1.45,240,0.109819103593147,1.45
-"180","Sub-Saharan Africa","Botswana","BWA",2.6,38.139292,"Africa",2630.296,1.45,2.6,0.0988481904698179,1.45
-"181","Sub-Saharan Africa","Eritrea","ERI",NA,53.418464,"Africa",3684.032,1.45,53.418464,1.45,1.45
-"182","Sub-Saharan Africa","Tanzania, United Republic of","TZA",49.7,NA,"Africa",65497.748,1.45,49.7,0.0758804714934627,1.45
-"183","Sub-Saharan Africa","Angola","AGO",29.4,516.0403115,"Africa",35588.987,1.45,29.4,0.0826098253372595,1.45
-"184","Sub-Saharan Africa","Sao Tome and Principe","STP",0.02,3.29701,"Africa",227.38,1.45,0.02,0.00879584835957428,1.45
-"185","Sub-Saharan Africa","South Sudan","SSD",NA,158.240878,"Africa",10913.164,1.45,158.240878,1.45,1.45
-"186","Sub-Saharan Africa","Comoros","COM",0.6,12.133223,"Africa",836.774,1.45,0.6,0.0717039487364569,1.45
-"187","Sub-Saharan Africa","Benin","BEN",5.8,193.616528,"Africa",13352.864,1.45,5.8,0.0434363743987807,1.45
-"188","Sub-Saharan Africa","Central African Republic","CAF",3,80.897588,"Africa",5579.144,1.45,3,0.0537716897072382,1.45
-"189","Sub-Saharan Africa","Malawi","MWI",42.6,295.8770965,"Africa",20405.317,1.45,42.6,0.208769116402357,1.45
-"190","Sub-Saharan Africa","Guinea-Bissau","GNB",3.6,30.530707,"Africa",2105.566,1.45,3.6,0.170975405187964,1.45
-"191","Sub-Saharan Africa","Lesotho","LSO",6.1,33.4344625,"Africa",2305.825,1.45,6.1,0.264547396268147,1.45
-"192","Sub-Saharan Africa","Liberia","LBR",74.6,76.8888745,"Africa",5302.681,1.45,74.6,1.40683552338902,1.45
-"193","Sub-Saharan Africa","Mozambique","MOZ",15.8,478.058011,"Africa",32969.518,1.45,15.8,0.0479230542587853,1.45
-"194","Sub-Saharan Africa","Uganda","UGA",24.1,685.1189825,"Africa",47249.585,1.45,24.1,0.0510057389922049,1.45
-"195","Sub-Saharan Africa","Senegal","SEN",52.5,251.0885105,"Africa",17316.449,1.45,52.5,0.303179941799846,1.45
-"196","Sub-Saharan Africa","Eswatini","SWZ",4,17.424215,"Africa",1201.67,1.45,4,0.332870089125966,1.45
-"197","Sub-Saharan Africa","Réunion","REU",NA,NA,"Africa",974.052,1.45,14.123754,1.45,1.45
-"198","Sub-Saharan Africa","Togo","TGO",6.1,128.3061355,"Africa",8848.699,1.45,6.1,0.0689366877548892,1.45
-"199","Sub-Saharan Africa","Ghana","GHA",54.8,485.400115,"Africa",33475.87,1.45,54.8,0.163700002419653,1.45
-"200","Sub-Saharan Africa","Zimbabwe","ZWE",23,236.6477865,"Africa",16320.537,1.45,23,0.140926735437688,1.45
-"201","Sub-Saharan Africa","Madagascar","MDG",17,429.369853,"Africa",29611.714,1.45,17,0.0574097129264453,1.45
-"202","Sub-Saharan Africa","Sierra Leone","SLE",3.2,124.782911,"Africa",8605.718,1.45,3.2,0.0371845789043982,1.45
-"203","Sub-Saharan Africa","Burkina Faso","BFA",3.5,328.769549,"Africa",22673.762,1.45,3.5,0.0154363444407681,1.45
-"204","Sub-Saharan Africa","Somalia","SOM",NA,255.1639095,"Africa",17597.511,1.45,255.1639095,1.45,1.45
-"205","Sub-Saharan Africa","Chad","TCD",8.2,256.9880675,"Africa",17723.315,1.45,8.2,0.0462667396026082,1.45
-"206","Sub-Saharan Africa","South Africa","ZAF",309.7,868.4613325,"Africa",59893.885,1.45,309.7,0.517081167802022,1.45
-"207","Sub-Saharan Africa","Namibia","NAM",2.2,37.221674,"Africa",2567.012,1.45,2.2,0.0857027547981856,1.45
-"208","Western Asia","United Arab Emirates","ARE",NA,96.2995158,"Asia",9441.129,1.02,96.2995158,1.02,1.02
-"209","Western Asia","Oman","OMN",NA,46.6782396,"Asia",4576.298,1.02,46.6782396,1.02,1.02
-"210","Western Asia","Armenia","ARM",22.7,28.3607838,"Asia",2780.469,1.02,22.7,0.816409030275108,1.02
-"211","Western Asia","Azerbaijan","AZE",23.9,105.6523548,"Asia",10358.074,1.02,23.9,0.230737876558905,1.02
-"212","Western Asia","Bahrain","BHR",NA,15.0167766,"Asia",1472.233,1.02,15.0167766,1.02,1.02
-"213","Western Asia","Yemen","YEM",44,343.7054628,"Asia",33696.614,1.02,44,0.130576917906351,1.02
-"214","Western Asia","Qatar","QAT",NA,27.4902444,"Asia",2695.122,1.02,27.4902444,1.02,1.02
-"215","Western Asia","Turkey","TUR",NA,870.4806582,"Asia",85341.241,1.02,870.4806582,1.02,1.02
-"216","Western Asia","Georgia","GEO",18.5,38.192727,"Asia",3744.385,1.02,18.5,0.494073125493239,1.02
-"217","Western Asia","Kuwait","KWT",NA,43.5425046,"Asia",4268.873,1.02,43.5425046,1.02,1.02
-"218","Western Asia","Lebanon","LBN",16.5,55.9953378,"Asia",5489.739,1.02,16.5,0.300560737040504,1.02
-"219","Western Asia","Jordan","JOR",NA,115.1158638,"Asia",11285.869,1.02,115.1158638,1.02,1.02
-"220","Western Asia","Saudi Arabia","SAU",NA,371.369964,"Asia",36408.82,1.02,371.369964,1.02,1.02
-"221","Western Asia","Cyprus","CYP",NA,12.7651776,"Asia",1251.488,1.02,12.7651776,1.02,1.02
-"222","Western Asia","Palestine, State of","PSE",NA,NA,"Asia",5250.072,1.02,53.5507344,1.02,1.02
-"223","Western Asia","Israel","ISR",NA,92.1907518,"Asia",9038.309,1.02,92.1907518,1.02,1.02
-"224","Western Asia","Iraq","IRQ",NA,453.8604444,"Asia",44496.122,1.02,453.8604444,1.02,1.02
-"225","Western Asia","Syrian Arab Republic","SYR",10,NA,"Asia",22125.249,1.02,10,0.0451972314526268,1.02
-"226","Western Europe","Belgium","BEL",NA,NA,"Europe",11655.93,NA,105.771051802032,0.907444123309185,0.907444123309185
-"227","Western Europe","Netherlands","NLD",230,NA,"Europe",17564.014,NA,230,1.30949565401166,0.907444123309185
-"228","Western Europe","Switzerland","CHE",80,NA,"Europe",8740.472,NA,80,0.915282378342954,0.907444123309185
-"229","Western Europe","Germany","DEU",750,NA,"Europe",83369.843,NA,750,0.899605868275415,0.907444123309185
-"230","Western Europe","Liechtenstein","LIE",NA,NA,"Europe",39.327,NA,0.356870550373803,0.907444123309185,0.907444123309185
-"231","Western Europe","Monaco","MCO",NA,NA,"Europe",36.469,NA,0.330935797329627,0.907444123309185,0.907444123309185
-"232","Western Europe","Luxembourg","LUX",NA,NA,"Europe",647.599,NA,5.87659906810905,0.907444123309185,0.907444123309185
-"233","Western Europe","France","FRA",330,NA,"Europe",64626.628,NA,330,0.510625434457141,0.907444123309185
-"234","Western Europe","Austria","AUT",NA,NA,"Europe",8939.617,NA,81.1220291128488,0.907444123309185,0.907444123309185
+"155","Southern Europe","Italy","ITA",NA,NA,"Europe",59037.474,NA,327.015593312345,0.553911898927696,0.553911898927696
+"156","Southern Europe","Spain","ESP",890.2,NA,"Europe",47558.63,NA,890.2,1.87179487718633,0.553911898927696
+"157","Southern Europe","Holy See","VAT",NA,NA,"Europe",0.51,NA,0.00282495068453125,0.553911898927696,0.553911898927696
+"158","Sub-Saharan Africa","Burundi","BDI",9.3,186.898852,"Africa",12889.576,1.45,9.3,0.0721513260017242,1.45
+"159","Sub-Saharan Africa","Djibouti","DJI",0.9,16.2523105,"Africa",1120.849,1.45,0.9,0.080296275412656,1.45
+"160","Sub-Saharan Africa","Equatorial Guinea","GNQ",NA,24.286166,"Africa",1674.908,1.45,24.286166,1.45,1.45
+"161","Sub-Saharan Africa","Gambia","GMB",1.7,39.236884,"Africa",2705.992,1.45,1.7,0.0628235412373725,1.45
+"162","Sub-Saharan Africa","Guinea","GIN",0.8,200.9604445,"Africa",13859.341,1.45,0.8,0.00577228022602229,1.45
+"163","Sub-Saharan Africa","Mayotte","MYT",NA,4.7284645,"Africa",326.101,1.45,4.7284645,1.45,1.45
+"164","Sub-Saharan Africa","Comoros","COM",0.6,12.133223,"Africa",836.774,1.45,0.6,0.0717039487364569,1.45
+"165","Sub-Saharan Africa","Zambia","ZMB",6.5,290.2562875,"Africa",20017.675,1.45,6.5,0.0324713034855447,1.45
+"166","Sub-Saharan Africa","Cameroon","CMR",7,404.760772,"Africa",27914.536,1.45,7,0.0250765407671473,1.45
+"167","Sub-Saharan Africa","Gabon","GAB",NA,34.640384,"Africa",2388.992,1.45,34.640384,1.45,1.45
+"168","Sub-Saharan Africa","Sao Tome and Principe","STP",0.02,3.29701,"Africa",227.38,1.45,0.02,0.00879584835957428,1.45
+"169","Sub-Saharan Africa","Congo, Democratic Republic of the","COD",194.9,NA,"Africa",99010.212,1.45,194.9,0.196848381659864,1.45
+"170","Sub-Saharan Africa","Mali","MLI",4.1,327.607055,"Africa",22593.59,1.45,4.1,0.0181467398496653,1.45
+"171","Sub-Saharan Africa","Ethiopia","ETH",NA,1789.008898,"Africa",123379.924,1.45,1789.008898,1.45,1.45
+"172","Sub-Saharan Africa","Guinea-Bissau","GNB",3.6,30.530707,"Africa",2105.566,1.45,3.6,0.170975405187964,1.45
+"173","Sub-Saharan Africa","Botswana","BWA",2.6,38.139292,"Africa",2630.296,1.45,2.6,0.0988481904698179,1.45
+"174","Sub-Saharan Africa","Namibia","NAM",2.2,37.221674,"Africa",2567.012,1.45,2.2,0.0857027547981856,1.45
+"175","Sub-Saharan Africa","Mauritius","MUS",5.5,18.8423005,"Africa",1299.469,1.45,5.5,0.423249804343159,1.45
+"176","Sub-Saharan Africa","Togo","TGO",6.1,128.3061355,"Africa",8848.699,1.45,6.1,0.0689366877548892,1.45
+"177","Sub-Saharan Africa","Mauritania","MRT",7.6,68.6740155,"Africa",4736.139,1.45,7.6,0.160468263283658,1.45
+"178","Sub-Saharan Africa","Réunion","REU",NA,NA,"Africa",974.052,1.45,14.123754,1.45,1.45
+"179","Sub-Saharan Africa","Madagascar","MDG",17,429.369853,"Africa",29611.714,1.45,17,0.0574097129264453,1.45
+"180","Sub-Saharan Africa","Malawi","MWI",42.6,295.8770965,"Africa",20405.317,1.45,42.6,0.208769116402357,1.45
+"181","Sub-Saharan Africa","Congo","COG",1.3,NA,"Africa",5970.424,1.45,1.3,0.0217739979606139,1.45
+"182","Sub-Saharan Africa","Nigeria","NGA",240,3168.847574,"Africa",218541.212,1.45,240,0.109819103593147,1.45
+"183","Sub-Saharan Africa","Central African Republic","CAF",3,80.897588,"Africa",5579.144,1.45,3,0.0537716897072382,1.45
+"184","Sub-Saharan Africa","Chad","TCD",8.2,256.9880675,"Africa",17723.315,1.45,8.2,0.0462667396026082,1.45
+"185","Sub-Saharan Africa","Niger","NER",48.9,380.0156665,"Africa",26207.977,1.45,48.9,0.186584412829727,1.45
+"186","Sub-Saharan Africa","Angola","AGO",29.4,516.0403115,"Africa",35588.987,1.45,29.4,0.0826098253372595,1.45
+"187","Sub-Saharan Africa","Liberia","LBR",74.6,76.8888745,"Africa",5302.681,1.45,74.6,1.40683552338902,1.45
+"188","Sub-Saharan Africa","South Africa","ZAF",309.7,868.4613325,"Africa",59893.885,1.45,309.7,0.517081167802022,1.45
+"189","Sub-Saharan Africa","Burkina Faso","BFA",3.5,328.769549,"Africa",22673.762,1.45,3.5,0.0154363444407681,1.45
+"190","Sub-Saharan Africa","Kenya","KEN",32.6,783.3985615,"Africa",54027.487,1.45,32.6,0.0603396563678781,1.45
+"191","Sub-Saharan Africa","Cabo Verde","CPV",NA,NA,"Africa",593.149,1.45,8.6006605,1.45,1.45
+"192","Sub-Saharan Africa","Seychelles","SYC",0.2,1.553211,"Africa",107.118,1.45,0.2,0.186709983382812,1.45
+"193","Sub-Saharan Africa","Sierra Leone","SLE",3.2,124.782911,"Africa",8605.718,1.45,3.2,0.0371845789043982,1.45
+"194","Sub-Saharan Africa","Tanzania, United Republic of","TZA",49.7,NA,"Africa",65497.748,1.45,49.7,0.0758804714934627,1.45
+"195","Sub-Saharan Africa","Eritrea","ERI",NA,53.418464,"Africa",3684.032,1.45,53.418464,1.45,1.45
+"196","Sub-Saharan Africa","Somalia","SOM",NA,255.1639095,"Africa",17597.511,1.45,255.1639095,1.45,1.45
+"197","Sub-Saharan Africa","Côte d'Ivoire","CIV",56,NA,"Africa",28160.542,1.45,56,0.198859808877258,1.45
+"198","Sub-Saharan Africa","Zimbabwe","ZWE",23,236.6477865,"Africa",16320.537,1.45,23,0.140926735437688,1.45
+"199","Sub-Saharan Africa","Lesotho","LSO",6.1,33.4344625,"Africa",2305.825,1.45,6.1,0.264547396268147,1.45
+"200","Sub-Saharan Africa","Rwanda","RWA",5,199.762121,"Africa",13776.698,1.45,5,0.0362931669112584,1.45
+"201","Sub-Saharan Africa","South Sudan","SSD",NA,158.240878,"Africa",10913.164,1.45,158.240878,1.45,1.45
+"202","Sub-Saharan Africa","Mozambique","MOZ",15.8,478.058011,"Africa",32969.518,1.45,15.8,0.0479230542587853,1.45
+"203","Sub-Saharan Africa","Benin","BEN",5.8,193.616528,"Africa",13352.864,1.45,5.8,0.0434363743987807,1.45
+"204","Sub-Saharan Africa","Senegal","SEN",52.5,251.0885105,"Africa",17316.449,1.45,52.5,0.303179941799846,1.45
+"205","Sub-Saharan Africa","Eswatini","SWZ",4,17.424215,"Africa",1201.67,1.45,4,0.332870089125966,1.45
+"206","Sub-Saharan Africa","Uganda","UGA",24.1,685.1189825,"Africa",47249.585,1.45,24.1,0.0510057389922049,1.45
+"207","Sub-Saharan Africa","Ghana","GHA",54.8,485.400115,"Africa",33475.87,1.45,54.8,0.163700002419653,1.45
+"208","Western Asia","Saudi Arabia","SAU",NA,371.369964,"Asia",36408.82,1.02,371.369964,1.02,1.02
+"209","Western Asia","Yemen","YEM",44,343.7054628,"Asia",33696.614,1.02,44,0.130576917906351,1.02
+"210","Western Asia","Cyprus","CYP",NA,12.7651776,"Asia",1251.488,1.02,12.7651776,1.02,1.02
+"211","Western Asia","Bahrain","BHR",NA,15.0167766,"Asia",1472.233,1.02,15.0167766,1.02,1.02
+"212","Western Asia","Azerbaijan","AZE",23.9,105.6523548,"Asia",10358.074,1.02,23.9,0.230737876558905,1.02
+"213","Western Asia","Turkey","TUR",NA,870.4806582,"Asia",85341.241,1.02,870.4806582,1.02,1.02
+"214","Western Asia","Jordan","JOR",NA,115.1158638,"Asia",11285.869,1.02,115.1158638,1.02,1.02
+"215","Western Asia","United Arab Emirates","ARE",NA,96.2995158,"Asia",9441.129,1.02,96.2995158,1.02,1.02
+"216","Western Asia","Lebanon","LBN",16.5,55.9953378,"Asia",5489.739,1.02,16.5,0.300560737040504,1.02
+"217","Western Asia","Oman","OMN",NA,46.6782396,"Asia",4576.298,1.02,46.6782396,1.02,1.02
+"218","Western Asia","Kuwait","KWT",NA,43.5425046,"Asia",4268.873,1.02,43.5425046,1.02,1.02
+"219","Western Asia","Palestine, State of","PSE",NA,NA,"Asia",5250.072,1.02,53.5507344,1.02,1.02
+"220","Western Asia","Syrian Arab Republic","SYR",10,NA,"Asia",22125.249,1.02,10,0.0451972314526268,1.02
+"221","Western Asia","Georgia","GEO",18.5,38.192727,"Asia",3744.385,1.02,18.5,0.494073125493239,1.02
+"222","Western Asia","Israel","ISR",NA,92.1907518,"Asia",9038.309,1.02,92.1907518,1.02,1.02
+"223","Western Asia","Iraq","IRQ",NA,453.8604444,"Asia",44496.122,1.02,453.8604444,1.02,1.02
+"224","Western Asia","Armenia","ARM",22.7,28.3607838,"Asia",2780.469,1.02,22.7,0.816409030275108,1.02
+"225","Western Asia","Qatar","QAT",NA,27.4902444,"Asia",2695.122,1.02,27.4902444,1.02,1.02
+"226","Western Europe","Luxembourg","LUX",NA,NA,"Europe",647.599,NA,5.87659906810905,0.907444123309185,0.907444123309185
+"227","Western Europe","Monaco","MCO",NA,NA,"Europe",36.469,NA,0.330935797329627,0.907444123309185,0.907444123309185
+"228","Western Europe","Austria","AUT",NA,NA,"Europe",8939.617,NA,81.1220291128488,0.907444123309185,0.907444123309185
+"229","Western Europe","Switzerland","CHE",80,NA,"Europe",8740.472,NA,80,0.915282378342954,0.907444123309185
+"230","Western Europe","Belgium","BEL",NA,NA,"Europe",11655.93,NA,105.771051802032,0.907444123309185,0.907444123309185
+"231","Western Europe","Germany","DEU",750,NA,"Europe",83369.843,NA,750,0.899605868275415,0.907444123309185
+"232","Western Europe","Netherlands","NLD",230,NA,"Europe",17564.014,NA,230,1.30949565401166,0.907444123309185
+"233","Western Europe","Liechtenstein","LIE",NA,NA,"Europe",39.327,NA,0.356870550373803,0.907444123309185,0.907444123309185
+"234","Western Europe","France","FRA",330,NA,"Europe",64626.628,NA,330,0.510625434457141,0.907444123309185
