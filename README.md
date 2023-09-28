@@ -1,4 +1,5 @@
-# mpox_global_FoI
+# Dynamics landscape of mpox importation risks
+
 Underlying code for Jung & Miura et al. "Dynamic landscape of mpox importation risks driven by heavy-tailed sexual contact networks among men who have sex with men in 2022: a mathematical modeling study"
 
 ## Note
