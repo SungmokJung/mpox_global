@@ -1,4 +1,4 @@
-,Date_reported,Country_code,Country,WHO_region,New_cases,Cumulative_cases,New_deaths,Cumulative_deaths,First_date,diff,iso_code,Check_Fumi,Correct date,Source,
+,Date_reported,Country_code,Country,WHO_region,New_cases,Cumulative_cases,New_deaths,Cumulative_deaths,First_date,diff,iso_code,Correction,Correct date,Source,
 43,2020/01/04,CN,China,WPRO,1,1,0,0,2020/01/04,#NAME?,CHN,NA,,,
 71,2020/01/04,FI,Finland,EURO,1,1,0,0,2020/01/04,#NAME?,FIN,Wrong,2020/01/29,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7096774/,
 78,2020/01/04,DE,Germany,EURO,1,1,0,0,2020/01/04,#NAME?,DEU,Wrong,2020/01/27,https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30314-5/fulltext,
