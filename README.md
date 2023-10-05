@@ -6,14 +6,14 @@ Underlying code for Jung & Miura et al. "Dynamic landscape of mpox importation r
 The travel volume data (data/flight/flight_matrix_random.csv & flight_matrix_depart_random.csv) are replaced with a dummy file due to data restriction. Re-running codes therefore does not accurately reproduce the original figures.
 
 ## Licence
+[MIT](https://github.com/SungmokJung/mpox_global/blob/main/LICENSE)
 
-To be updated
 
 ## Authors
 [Sung-mok Jung](https://github.com/SungmokJung),
 [Fuminari Miura](https://github.com/fmiura),
 [Hiroaki Murayama](https://github.com/hiroaki-murayama), 
-Sebastian Funk, 
+[Sebastian Funk](https://github.com/sbfnk), 
 Jacco Wallinga,
 Justin Lessler,
 [Akira Endo](https://github.com/akira-endo).
